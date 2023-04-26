@@ -22,7 +22,7 @@ echo "RELEASE_KEY_PASSWORD=TVBoxOSC" >>$CURRENT_DIR/$DIR/gradle.properties
 #名称修改
 sed -i 's/TVBox/影视TV/g' $CURRENT_DIR/$DIR/app/src/main/res/values-zh/strings.xml
 sed -i 's/TVBox/影视TV/g' $CURRENT_DIR/$DIR/app/src/main/res/values/strings.xml
-#sed -i 's#"app_source"><#"app_source">https://agit.ai/yu/hu/raw/branch/main/0.json<#g' $CURRENT_DIR/$DIR/app/src/main/res/values-zh/strings.xml
+sed -i 's#"app_source"><#"app_source">https://agit.ai/yu/hu/raw/branch/main/0.json<#g' $CURRENT_DIR/$DIR/app/src/main/res/values-zh/strings.xml
 
 #图标修改
 mv $CURRENT_DIR/DIY/app_icon.png $CURRENT_DIR/$DIR/app/src/main/res/drawable/app_icon.png
@@ -30,33 +30,33 @@ sed -i 's/app_banner/app_icon/g' $CURRENT_DIR/$DIR/app/src/main/AndroidManifest.
 
 
 #背景修改
-#mv $CURRENT_DIR/DIY/app_bg_black.png $CURRENT_DIR/$DIR/app/src/main/res/drawable/app_bg.png
+mv $CURRENT_DIR/DIY/app_bg_black.png $CURRENT_DIR/$DIR/app/src/main/res/drawable/app_bg.png
 
 # 主页UI调整 恢复老版；默认多行显示
-#cp $CURRENT_DIR/DIY/T/fragment_user.xml $CURRENT_DIR/$DIR/app/src/main/res/layout/fragment_user.xml
+cp $CURRENT_DIR/DIY/T/fragment_user.xml $CURRENT_DIR/$DIR/app/src/main/res/layout/fragment_user.xml
 
 # 主页增加每日一言/去除部分图标
-#cp $CURRENT_DIR/DIY/T/ApiConfig.java $CURRENT_DIR/$DIR/app/src/main/java/com/github/tvbox/osc/api/ApiConfig.java
-#cp $CURRENT_DIR/DIY/T/activity_home.xml $CURRENT_DIR/$DIR/app/src/main/res/layout/activity_home.xml
-#cp $CURRENT_DIR/DIY/T/HomeActivity.java $CURRENT_DIR/$DIR/app/src/main/java/com/github/tvbox/osc/ui/activity/HomeActivity.java
+cp $CURRENT_DIR/DIY/T/ApiConfig.java $CURRENT_DIR/$DIR/app/src/main/java/com/github/tvbox/osc/api/ApiConfig.java
+cp $CURRENT_DIR/DIY/T/activity_home.xml $CURRENT_DIR/$DIR/app/src/main/res/layout/activity_home.xml
+cp $CURRENT_DIR/DIY/T/HomeActivity.java $CURRENT_DIR/$DIR/app/src/main/java/com/github/tvbox/osc/ui/activity/HomeActivity.java
 
 # 默认设置修改
-#cp $CURRENT_DIR/DIY/T/App.java $CURRENT_DIR/$DIR/app/src/main/java/com/github/tvbox/osc/base/App.java 
+cp $CURRENT_DIR/DIY/T/App.java $CURRENT_DIR/$DIR/app/src/main/java/com/github/tvbox/osc/base/App.java 
 
 # 整体布局修改
-#cp $CURRENT_DIR/DIY/T/BaseActivity.java $CURRENT_DIR/$DIR/app/src/main/java/com/github/tvbox/osc/base/BaseActivity.java 
+cp $CURRENT_DIR/DIY/T/BaseActivity.java $CURRENT_DIR/$DIR/app/src/main/java/com/github/tvbox/osc/base/BaseActivity.java 
 
 # 直播添加epg112114支持
-#cp $CURRENT_DIR/DIY/T/LivePlayActivity.java $CURRENT_DIR/$DIR/app/src/main/java/com/github/tvbox/osc/ui/activity/LivePlayActivity.java
+cp $CURRENT_DIR/DIY/T/LivePlayActivity.java $CURRENT_DIR/$DIR/app/src/main/java/com/github/tvbox/osc/ui/activity/LivePlayActivity.java
 
 # 搜索改为爱奇艺热词，支持首字母联想
-#cp $CURRENT_DIR/DIY/T/SearchActivity.java $CURRENT_DIR/$DIR/app/src/main/java/com/github/tvbox/osc/ui/activity/SearchActivity.java
+cp $CURRENT_DIR/DIY/T/SearchActivity.java $CURRENT_DIR/$DIR/app/src/main/java/com/github/tvbox/osc/ui/activity/SearchActivity.java
 
 #长按倍速修改为2
 sed -i 's/3.0/2.0/g' $CURRENT_DIR/$DIR/app/src/main/java/com/github/tvbox/osc/player/controller/VodController.java
 
 #版本号修改
-#sed -i 's/versionName "1.0."/versionName "1."/g' $CURRENT_DIR/$DIR/app/build.gradle
+sed -i 's/versionName "1.0."/versionName "1."/g' $CURRENT_DIR/$DIR/app/build.gradle
 
 #FongMi的jar支持
 echo "" >>$CURRENT_DIR/$DIR/app/proguard-rules.pro
