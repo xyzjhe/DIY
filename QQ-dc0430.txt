@@ -14,7 +14,13 @@
 
 { "url": "https://jihulab.com/xiaohutx/box/-/raw/main/0.json", "name": "线路6（小胡）" },
 
+{ "url": "https://agit.ai/yu/hu/raw/branch/main/0.json", "name": "线路6a（小胡0）" },
+
+{ "url": "https://agit.ai/yu/hu/raw/branch/main/1.json", "name": "线路6a（小胡1）" },
+
 { "url": "https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/ysc.json", "name": "线路7（运输车4k）"},
+
+{ "url": "https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/ysc.json", "name": "线路7a（运输车agit）"},
 
 { "url": "http://brox.eu.org/xbiu.json", "name": "线路8（brox-ali-4k）" },
 
@@ -43,6 +49,16 @@
 { "url": "https://agit.ai/butterfly/gaotianliuyun/raw/branch/master/XYQ.json", "name": "线路20（XYQ）" },
 
 { "url": "https://agit.ai/butterfly/gaotianliuyun/raw/branch/master/xBPQ.json", "name": "线路21（xBPQ）" },
+
+{ "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/采集.json","name": "采集专线(138)"},
+
+{ "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cbi.json","name": "B站(138-2k)"},
+
+{ "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cpy.json","name": "PY专线(138在线)"},
+
+{ "url": "http://home.jundie.top:81/TVBox/yosakoi.json","name": "俊于(在线)"},
+
+{ "url": "https://agit.ai/soniczx/tv/raw/branch/master/zx1.txt","name": "soniczx"},
 
 { "url": "https://raw.liucn.cc/box/m.json", "name": "线路22（老刘备）" }
 
