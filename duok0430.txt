@@ -1,0 +1,39 @@
+{"storeHouse":[
+    {"sourceName":"🐂clan0606🐂","sourceUrl":"clan://localhost/tvboxqq/本地仓.txt"},
+    {"sourceName":"🐱127影音壳子🐱","sourceUrl":"http://127.0.0.1:9978/file/tvboxqq/本地仓.txt"},
+    {"sourceName":"🦊myagit仓🦊","sourceUrl":"https://agit.ai/laozou/zou/raw/branch/b/QQ-dc0430.txt"},
+    {"sourceName":"🐰myjihu仓🐰","sourceUrl":"https://jihulab.com/laoz/test/-/raw/main/QQ-dc0430.txt"},
+    {"sourceName":"🐻mygit1仓🐻","sourceUrl":"https://raw.iqiq.io/xyzjhe/DIY/main/QQ-dc0430.txt"},
+    {"sourceName":"🐼mygit2仓🐼","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/DIY/main/QQ-dc0430.txt"},
+    {"sourceName":"🚎运输车git🚎","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/52670576/tvbox/main/api.json"},
+    {"sourceName":"🚒运输车agit🚒","sourceUrl":"https://agit.ai/yu/bx/raw/branch/main/api.json"},
+    
+    {"sourceName":"🙉欧歌4K🙉","sourceUrl":"http://tv.nxog.top/"},
+
+    {"sourceName": "⚽️xiaohu仓1⚽️","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc1"},
+    {"sourceName": "🏀xiaohu仓2🏀","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc2"},
+    {"sourceName": "⚾️xiaohu仓3⚾️","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc3"},
+    {"sourceName": "🥎xiaohu仓4🥎","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc4"},
+
+
+    {"sourceName": "🥎PizazzGY🥎","sourceUrl": "https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/warehouse.txt"},
+    {"sourceName": "🥎butterfly-91-ol🥎","sourceUrl": "https://agit.ai/butterfly/md/raw/branch/Zaku/DC-91-OL.json"},
+    {"sourceName": "🥎butterfly-91gao-ol🥎","sourceUrl": "https://agit.ai/butterfly/md/raw/branch/Zaku/DC-91gao-OL.json"},
+     
+
+    
+    {"sourceName":"🍏Duoduo仓🍏","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/duo.json"},
+    {"sourceName":"🍎多多优选仓🍎","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
+    {"sourceName":"🍐多多公众仓🍐","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
+    {"sourceName":"🍊多多聚合仓🍊","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/c.txt"},
+    {"sourceName":"🍋多多预备仓🍋","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/d.txt"},
+    {"sourceName":"🦞alanchaotang🦞","sourceUrl":"https://agit.ai/alanchaotang/if/raw/branch/main/Multiplelines.json"},
+    
+
+    {"sourceName":"🐯Kvymin🐯","sourceUrl":"https://agit.ai/kvymin/TV/raw/branch/master/config.json"},
+    {"sourceName":"🦁zhoujck🦁","sourceUrl":"https://agit.ai/zhoujck/config/raw/branch/master/api"},
+    {"sourceName":"🐮VivoMax🐮","sourceUrl":"https://agit.ai/VivoMax/online/raw/branch/master/多线路.json"},
+    {"sourceName": "🐷138001380000🐷","sourceUrl": "https://agit.ai/138001380000/MHQTV/raw/branch/master/在线.json"}
+
+    ]
+}
