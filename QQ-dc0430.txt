@@ -4,11 +4,11 @@
 
 [
 
-{ "url": "https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json", "name": "线路0(XYQ0606-git)" },   
+ "url": "https://agit.ai/laozou/XYQTVBox/raw/branch/main/XYQTVBox.json", "name": "线路0(XYQ0610-agit)" },    
 
-{ "url": "https://agit.ai/laozou/XYQTVBox/raw/branch/main/XYQTVBox.json", "name": "线路1(XYQ0606-agit)" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json", "name": "线路1(XYQ0610-git)" },   
 
-{ "url": "https://ghproxy.net/https://gitee.com/lekanbox/App/raw/master/ali.json", "name": "线路2(ysc阿里无敌)"},
+{ "url": "https://gitee.com/lekanbox/App/raw/master/ali.json", "name": "线路2(ysc阿里无敌)"},
 
 { "url": "https://yydsys.top/duo/ali", "name": "线路3(大聪明Ali4K)" },
 
