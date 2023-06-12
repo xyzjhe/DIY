@@ -4,7 +4,9 @@
 
 [
 
-{ "url": "https://agit.ai/laozou/XYQTV/raw/branch/main/XYQTVBox.json", "name": "线路0(XYQ0610-agit)" },    
+{ "url": "https://agit.ai/laozou/XYQTV/raw/branch/main/XYQTVBox.json", "name": "线路0(XYQ0611-agit)" },
+
+{ "url": "https://jihulab.com/laoz/xyqtvbox/-/raw/main/XYQTVBox.json", "name": "线路0(XYQ0611-jihulab)" },   
 
 { "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json", "name": "线路1(XYQ0610-git)" },   
 
@@ -38,7 +40,7 @@
 
 { "url": "https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/xo.json", "name": "线路16(饭太硬JM-git)" },
 
-{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "线路17(gao-JS)" },
+{ "url": "https://agit.ai/laozou/cat-js/raw/branch/main/js.json", "name": "线路17(cat-JS)" },
 
 { "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "线路18(肥猫)" },
 
