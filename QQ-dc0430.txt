@@ -4,21 +4,19 @@
 
 [
 
-{ "url": "https://agit.ai/laozou/XYQTV/raw/branch/main/XYQTVBox.json", "name": "线路0(XYQ0611-agit)" },
+{ "url": "https://agit.ai/laozou/XYQ0612/raw/branch/main/XYQTVBox.json", "name": "线路0(XYQ0613-agit)" },
 
-{ "url": "https://jihulab.com/laoz/xyqtvbox/-/raw/main/XYQTVBox.json", "name": "线路0(XYQ0611-jihulab)" },   
+{ "url": "https://jihulab.com/laoz/xyqtvbox/-/raw/main/XYQTVBox.json", "name": "线路1(XYQ0613-jihulab)" },   
 
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json", "name": "线路1(XYQ0610-git)" },   
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json", "name": "线路2(XYQ0610-git)" },  
 
-{ "url": "https://gitee.com/lekanbox/App/raw/master/ali.json", "name": "线路2(ysc阿里无敌)"},
+{ "url": "https://jihulab.com/xo2/fty/-/raw/main/xo.json", "name": "线路3(饭太硬JM-Jihu)"},
 
-{ "url": "https://yydsys.top/duo/ali", "name": "线路3(大聪明Ali4K)" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/xo.json", "name": "线路4(饭太硬JM-git)" },
 
-{ "url": "http://m.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all2&xl=&jar=ou", "name": "线路4(欧歌Ali4k)" },
+{ "url": "https://agit.ai/laozou/cat-js/raw/branch/main/js.json", "name": "线路5(cat-JS-agit)" },
 
-{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "线路5(小米demo)" },
-
-{ "url": "https://gh.t4tv.hz.cz/newtang.bmp", "name": "线路6(TangSan)" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyzjhe/dr_py/main/js.json", "name": "线路6(cat-JS-git)" },
 
 { "url": "https://weixine.net/ysc.json", "name": "线路7(运输车主线)"},
 
@@ -26,45 +24,43 @@
 
 { "url": "http://ysc.weixine.net:33/", "name": "线路9(运输车国内快线)"},
 
-{ "url": "http://ysc.weixine.net:99/荷城茶秀", "name": "线路10(荷城茶秀)"},
+{ "url": "https://gitee.com/lekanbox/App/raw/master/ali.json", "name": "线路10(YSC阿里无敌)"},
 
-{ "url": "https://yydsys.top/duo", "name": "线路11(应用多多)" },
+{ "url": "https://yydsys.top/duo/ali", "name": "线路11(大聪明Ali4K)" },
 
-{ "url": "https://jihulab.com/xiaohutx/box/-/raw/main/00.json","name": "线路12(小胡jihu00-rules)"},
+{ "url": "http://m.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all2&xl=&jar=ou", "name": "线路12(欧歌Ali4k)" },
 
-{ "url": "https://jihulab.com/xiaohutx/box/-/raw/main/0.json", "name": "线路13(小胡Jihu0)"},
+{ "url": "http://饭太硬.ga/tv", "name": "线路13(饭太硬)"},
 
-{ "url": "http://饭太硬.ga/tv", "name": "线路14(饭太硬)"},
+{ "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "线路14(肥猫)" },
 
-{ "url": "https://jihulab.com/xo2/fty/-/raw/main/xo.json", "name": "线路15(饭太硬JM-Jihu)"},
+{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "线路15(小米demo)" },
 
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/xo.json", "name": "线路16(饭太硬JM-git)" },
+{ "url": "https://gh.t4tv.hz.cz/newtang.bmp", "name": "线路16(TangSan)" },
 
-{ "url": "https://agit.ai/laozou/cat-js/raw/branch/main/js.json", "name": "线路17(cat-JS)" },
+{ "url": "http://ysc.weixine.net:99/荷城茶秀", "name": "线路17(荷城茶秀)"},
 
-{ "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "线路18(肥猫)" },
+{ "url": "https://yydsys.top/duo", "name": "线路18(应用多多)" },
 
-{ "url": "https://tvbox.cainisi.cf", "name": "线路19(菜妮丝-Bili2K)" },
+{ "url": "https://jihulab.com/xiaohutx/box/-/raw/main/00.json","name": "线路19(小胡jihu00-rules)"},
 
-{ "url": "https://agit.ai/laozou/bitest/raw/branch/master/采集.json","name": "线路20(CaiJI-laoZ)"},
+{ "url": "https://jihulab.com/xiaohutx/box/-/raw/main/0.json", "name": "线路20(小胡Jihu0)"},
 
-{ "url": "https://agit.ai/laozou/bitest/raw/branch/master/cbi.json","name": "线路21(Bili4K-laoZ)"},
+{ "url": "https://tvbox.cainisi.cf", "name": "线路21(菜妮丝-Bili2K)" },
 
-{ "url": "https://agit.ai/laozou/bitest/raw/branch/master/cpy.json","name": "线路22(PY4K-laoZ)"},
+{ "url": "https://agit.ai/laozou/bitest/raw/branch/master/采集.json","name": "线路22(CaiJI-laoZ)"},
 
-{ "url": "http://pandown.pro/tvbox/tvbox.json", "name": "线路23(巧儿)" },
+{ "url": "https://agit.ai/laozou/bitest/raw/branch/master/cbi.json","name": "线路23(Bili4K-laoZ)"},
 
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路24(南风)" },
+{ "url": "https://agit.ai/laozou/bitest/raw/branch/master/cpy.json","name": "线路24(PY4K-laoZ)"},
 
-{ "url": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/lemj.json", "name": "线路25(lemJ)" },
+{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路25(南风)" },
 
-{ "url": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/lem.json", "name": "线路26(lemAll)" },
+{ "url": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/lemj.json", "name": "线路26(lemJ)" },
 
-{ "url": "http://brox.eu.org/xbiu.json", "name": "线路27(brox-ali-4k)" },
+{ "url": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/lem.json", "name": "线路27(lemAll)" },
 
-{ "url": "https://raw.liucn.cc/box/m.json", "name": "线路28(老刘备)" }
-
-
+{ "url": "http://brox.eu.org/xbiu.json", "name": "线路28(brox-ali-4k)" }
 
 
 ]
