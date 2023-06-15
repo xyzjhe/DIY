@@ -4,6 +4,10 @@
 
 [
 
+{ "url": "clan://localhost/tvboxqq/07c多多me/api.json", "name": "线路clan（Bili4K-LaoZ-0615）" },
+
+{ "url": "http://127.0.0.1:9978/file/tvboxqq/07c多多me/api.json", "name": "线路127（Bili4K-LaoZ-0615）" },
+
 { "url": "https://agit.ai/laozou/XYQ0612/raw/branch/main/XYQTVBox.json", "name": "线路0(XYQ0613-agit)" },
 
 { "url": "https://jihulab.com/laoz/xyqtvbox/-/raw/main/XYQTVBox.json", "name": "线路1(XYQ0613-jihulab)" },   
