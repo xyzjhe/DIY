@@ -54,17 +54,11 @@
 
 { "url": "https://agit.ai/laozou/bitest/raw/branch/master/采集.json","name": "线路22(CaiJI-laoZ)"},
 
-{ "url": "https://agit.ai/laozou/bitest/raw/branch/master/cbi.json","name": "线路23(Bili4K-laoZ)"},
+{ "url": "https://agit.ai/laozou/bitest/raw/branch/master/cpy.json","name": "线路23(PY4K-laoZ)"},
 
-{ "url": "https://agit.ai/laozou/bitest/raw/branch/master/cpy.json","name": "线路24(PY4K-laoZ)"},
+{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路24(南风)" },
 
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路25(南风)" },
-
-{ "url": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/lemj.json", "name": "线路26(lemJ)" },
-
-{ "url": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/lem.json", "name": "线路27(lemAll)" },
-
-{ "url": "http://brox.eu.org/xbiu.json", "name": "线路28(brox-ali-4k)" }
+{ "url": "http://brox.eu.org/xbiu.json", "name": "线路25(brox-ali-4k)" }
 
 
 ]
