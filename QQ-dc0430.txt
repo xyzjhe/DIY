@@ -4,17 +4,17 @@
 
 [
 
-{ "url": "clan://localhost/tvboxqq/00-bili2K/api.json", "name": "线路clan（Bili4K-LaoZ-0616）" },
+{ "url": "clan://localhost/tvboxzz/00-bili2K/api.json", "name": "线路clan（Bili4K-LaoZ-0616）" },
 
-{ "url": "http://127.0.0.1:9978/file/tvboxqq/00-bili2K/api.json", "name": "线路127（Bili4K-LaoZ-0616）" },
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/00-bili2K/api.json", "name": "线路127（Bili4K-LaoZ-0616）" },
 
-{ "url": "clan://localhost/tvboxqq/01-XYQTVBox/XYQTVBox.json", "name": "线路clan（XYQ-LaoZ-0616）" },
+{ "url": "clan://localhost/tvboxzz/01-XYQTVBox/XYQTVBox.json", "name": "线路clan（XYQ-LaoZ-0616）" },
 
-{ "url": "http://127.0.0.1:9978/file/tvboxqq/01-XYQTVBox/XYQTVBox.json", "name": "线路127（XYQ-LaoZ-0616）" },
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/01-XYQTVBox/XYQTVBox.json", "name": "线路127（XYQ-LaoZ-0616）" },
 
-{ "url": "clan://localhost/tvboxqq/02-FTY/xo.json", "name": "线路clan（FTY-LaoZ-0616）" },
+{ "url": "clan://localhost/tvboxzz/02-FTY/xo.json", "name": "线路clan（FTY-LaoZ-0616）" },
 
-{ "url": "http://127.0.0.1:9978/file/tvboxqq/02-FTY/xo.json", "name": "线路127（FTY-LaoZ-0616）" },
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/02-FTY/xo.json", "name": "线路127（FTY-LaoZ-0616）" },
 
 { "url": "https://agit.ai/laozou/XYQ0612/raw/branch/main/XYQTVBox.json", "name": "线路0(XYQ0615-agit)" },
 
