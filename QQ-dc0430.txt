@@ -4,17 +4,25 @@
 
 [
 
-{ "url": "clan://localhost/tvboxzz/00-bili2K/api.json", "name": "线路clan（Bili4K-LaoZ-0616）" },
+{ "url": "clan://localhost/tvboxzz/00-bili2K/api.json", "name": "线路a clan（Bili4K-LaoZ-0618）" },
 
-{ "url": "http://127.0.0.1:9978/file/tvboxzz/00-bili2K/api.json", "name": "线路127（Bili4K-LaoZ-0616）" },
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/00-bili2K/api.json", "name": "线路b 127（Bili4K-LaoZ-0618）" },
 
-{ "url": "clan://localhost/tvboxzz/01-XYQTVBox/XYQTVBox.json", "name": "线路clan（XYQ-LaoZ-0616）" },
+{ "url": "clan://localhost/tvboxzz/01-XYQTVBox/XYQTVBox.json", "name": "线路c clan（XYQ-LaoZ-0618）" },
 
-{ "url": "http://127.0.0.1:9978/file/tvboxzz/01-XYQTVBox/XYQTVBox.json", "name": "线路127（XYQ-LaoZ-0616）" },
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/01-XYQTVBox/XYQTVBox.json", "name": "线路d 127（XYQ-LaoZ-0618）" },
 
-{ "url": "clan://localhost/tvboxzz/02-FTY/xo.json", "name": "线路clan（FTY-LaoZ-0616）" },
+{ "url": "clan://localhost/tvboxzz/02-FTY/xo.json", "name": "线路e clan（FTY-LaoZ-0618）" },
 
-{ "url": "http://127.0.0.1:9978/file/tvboxzz/02-FTY/xo.json", "name": "线路127（FTY-LaoZ-0616）" },
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/02-FTY/xo.json", "name": "线路f 127（FTY-LaoZ-0618）" },
+
+{ "url": "clan://localhost/tvboxzz/05-fongMii/api.json", "name": "线路g clan（FongMi-API-0618）" },
+
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/05-fongMii/api.json", "name": "线路h 127（FongMi-API-0618）" },
+
+{ "url": "clan://localhost/tvboxzz/03-18/api18.json", "name": "线路i clan（FM18-LaoZ-0618）" },
+
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/03-18/api18.json", "name": "线路j 127（FM18-LaoZ-0618）" },
 
 { "url": "https://agit.ai/laozou/XYQ0612/raw/branch/main/XYQTVBox.json", "name": "线路0(XYQ0615-agit)" },
 
@@ -44,13 +52,13 @@
 
 { "url": "http://饭太硬.ga/tv", "name": "线路13(饭太硬)"},
 
-{ "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "线路14(肥猫)" },
+{ "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name":"线路14(肥猫)" },
 
-{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "线路15(小米demo)" },
+{ "url": "http://xhww.fun:63/小米/DEMO.json", "name":"线路15(小米demo)" },
 
-{ "url": "https://gh.t4tv.hz.cz/newtang.bmp", "name": "线路16(TangSan)" },
+{ "url": "https://gh.t4tv.hz.cz/newtang.bmp", "name":"线路16(TangSan)" },
 
-{ "url": "http://ysc.weixine.net:99/荷城茶秀", "name": "线路17(荷城茶秀)"},
+{ "url": "http://ysc.weixine.net:99/荷城茶秀", "name":"线路17(荷城茶秀)"},
 
 { "url": "https://yydsys.top/duo", "name": "线路18(应用多多)" },
 
@@ -60,14 +68,17 @@
 
 { "url": "https://tvbox.cainisi.cf", "name": "线路21(菜妮丝-Bili2K)" },
 
-{ "url": "https://agit.ai/laozou/bitest/raw/branch/master/采集.json","name": "线路22(CaiJI-laoZ)"},
+{ "url": "https://gitee.com/robor/set/raw/main/my.json","name": "线路22(Bluefriend-my)"},
 
-{ "url": "https://agit.ai/laozou/bitest/raw/branch/master/cpy.json","name": "线路23(PY4K-laoZ)"},
+{ "url": "https://gitee.com/robor/set/raw/main/mx.json","name": "线路23(Bluefriend-mx)"},
 
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路24(南风)" },
+{ "url": "https://gitee.com/robor/set/raw/main/ma.json","name": "线路24(Bluefriend-ma)"},
 
-{ "url": "http://brox.eu.org/xbiu.json", "name": "线路25(brox-ali-4k)" }
+{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路25(南风Yoursmile)" },
 
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/tvbox_config.json", "name": "线路26(zhixc-CatVodTVSpider)" },
+
+{ "url": "http://brox.eu.org/xbiu.json", "name": "线路27(brox-ali-4k)" }
 
 ]
 
