@@ -28,57 +28,51 @@
 
 { "url": "https://jihulab.com/laoz/xyqtvbox/-/raw/main/XYQTVBox.json", "name": "线路1(XYQ0615-jihulab)" },   
 
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json", "name": "线路2(XYQ0610-git)" },  
+{ "url": "https://agit.ai/laozou/cat-js/raw/branch/main/js.json", "name": "线路2(cat-JS-agit)" },
 
-{ "url": "https://jihulab.com/xo2/fty/-/raw/main/xo.json", "name": "线路3(饭太硬JM-Jihu)"},
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyzjhe/dr_py/main/js.json", "name": "线路3(cat-JS-git)" },
 
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/xo.json", "name": "线路4(饭太硬JM-git)" },
+{ "url": "https://jihulab.com/xo2/fty/-/raw/main/xo.json", "name": "线路4(饭太硬JM-Jihu)"},
 
-{ "url": "https://agit.ai/laozou/cat-js/raw/branch/main/js.json", "name": "线路5(cat-JS-agit)" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/loopool/fan/main/xo.json", "name": "线路5(饭太硬JM-git)" },
 
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyzjhe/dr_py/main/js.json", "name": "线路6(cat-JS-git)" },
+{ "url": "https://weixine.net/ysc.json", "name": "线路6(运输车主线)"},
 
-{ "url": "https://weixine.net/ysc.json", "name": "线路7(运输车主线)"},
+{ "url": "https://cf.weixine.net/ysc.json", "name": "线路7(运输车CF加速)"},
 
-{ "url": "https://cf.weixine.net/ysc.json", "name": "线路8(运输车CF加速)"},
+{ "url": "http://ysc.weixine.net:33/", "name": "线路8(运输车国内快线)"},
 
-{ "url": "http://ysc.weixine.net:33/", "name": "线路9(运输车国内快线)"},
+{ "url": "https://gitee.com/lekanbox/App/raw/master/ali.json", "name": "线路9(YSC阿里无敌)"},
 
-{ "url": "https://gitee.com/lekanbox/App/raw/master/ali.json", "name": "线路10(YSC阿里无敌)"},
+{ "url": "https://yydsys.top/duo/ali", "name": "线路10(大聪明Ali4K)" },
 
-{ "url": "https://yydsys.top/duo/ali", "name": "线路11(大聪明Ali4K)" },
+{ "url": "http://m.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all2&xl=&jar=ou", "name": "线路11(欧歌Ali4k)" },
 
-{ "url": "http://m.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all2&xl=&jar=ou", "name": "线路12(欧歌Ali4k)" },
+{ "url": "http://饭太硬.ga/tv", "name": "线路12(饭太硬)"},
 
-{ "url": "http://饭太硬.ga/tv", "name": "线路13(饭太硬)"},
+{ "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name":"线路13(肥猫)" },
 
-{ "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name":"线路14(肥猫)" },
+{ "url": "http://xhww.fun:63/小米/DEMO.json", "name":"线路14(小米demo)" },
 
-{ "url": "http://xhww.fun:63/小米/DEMO.json", "name":"线路15(小米demo)" },
+{ "url": "https://gh.t4tv.hz.cz/newtang.bmp", "name":"线路15(TangSan)" },
 
-{ "url": "https://gh.t4tv.hz.cz/newtang.bmp", "name":"线路16(TangSan)" },
+{ "url": "http://ysc.weixine.net:99/荷城茶秀", "name":"线路16(荷城茶秀)"},
 
-{ "url": "http://ysc.weixine.net:99/荷城茶秀", "name":"线路17(荷城茶秀)"},
+{ "url": "https://yydsys.top/duo", "name": "线路17(应用多多)" },
 
-{ "url": "https://yydsys.top/duo", "name": "线路18(应用多多)" },
+{ "url": "https://tvbox.cainisi.cf", "name": "线路18(菜妮丝)" },
 
-{ "url": "https://jihulab.com/xiaohutx/box/-/raw/main/00.json","name": "线路19(小胡jihu00-rules)"},
+{ "url": "https://gitee.com/robor/set/raw/main/my.json","name": "线路19(Bluefriend-my)"},
 
-{ "url": "https://jihulab.com/xiaohutx/box/-/raw/main/0.json", "name": "线路20(小胡Jihu0)"},
+{ "url": "https://gitee.com/robor/set/raw/main/mx.json","name": "线路20(Bluefriend-mx)"},
 
-{ "url": "https://tvbox.cainisi.cf", "name": "线路21(菜妮丝-Bili2K)" },
+{ "url": "https://gitee.com/robor/set/raw/main/ma.json","name": "线路21(Bluefriend-ma)"},
 
-{ "url": "https://gitee.com/robor/set/raw/main/my.json","name": "线路22(Bluefriend-my)"},
+{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路22(南风Yoursmile)" },
 
-{ "url": "https://gitee.com/robor/set/raw/main/mx.json","name": "线路23(Bluefriend-mx)"},
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/tvbox_config.json", "name": "线路23(zhixc-CatVodTVSpider)" },
 
-{ "url": "https://gitee.com/robor/set/raw/main/ma.json","name": "线路24(Bluefriend-ma)"},
-
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路25(南风Yoursmile)" },
-
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/tvbox_config.json", "name": "线路26(zhixc-CatVodTVSpider)" },
-
-{ "url": "http://brox.eu.org/xbiu.json", "name": "线路27(brox-ali-4k)" }
+{ "url": "http://brox.eu.org/xbiu.json", "name": "线路24(brox-ali-4k)" }
 
 ]
 
