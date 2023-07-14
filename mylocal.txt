@@ -1,0 +1,30 @@
+{ 
+    
+"urls":
+
+[
+
+{ "url": "clan://localhost/tvboxzz/00-bili2K/api.json", "name": "线路1（clan-Bili4K-LaoZ）" },
+
+{ "url": "clan://localhost/tvboxzz/01-XYQTVBox/XYQTVBox.json", "name": "线路2（clan-XYQ-LaoZ）" },
+
+{ "url": "clan://localhost/tvboxzz/02-FTY/xo.json", "name": "线路3（clan-FTY-LaoZ）" },
+
+{ "url": "clan://localhost/tvboxzz/05-fongMi/api.json", "name": "线路4（clan-FongMi-config）" },
+
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/00-bili2K/api.json", "name": "线路5（127-Bili4K-LaoZ）" },
+
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/01-XYQTVBox/XYQTVBox.json", "name": "线路6（127-XYQ-LaoZ）" },
+
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/02-FTY/xo.json", "name": "线路7（127-FTY-LaoZ）" },
+
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/05-fongMi/api.json", "name": "线路8（127-FongMi-config）" }
+
+//{ "url": "clan://localhost/tvboxzz/03-18/api18.json", "name": "线路9（clan-FM18-LaoZ）" },
+
+//{ "url": "http://127.0.0.1:9978/file/tvboxzz/03-18/api18.json", "name": "线路10(127-FM18-LaoZ）" }
+
+]
+
+}
+
