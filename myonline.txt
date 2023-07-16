@@ -14,11 +14,13 @@
 
 { "url": "http://饭太硬.ml/tv", "name": "线路0(饭太硬ML)" },
 
-{ "url": "https://jihulab.com/xo2/fty/-/raw/main/xo.json", "name": "线路1(FTY-jihulab)" },
+//{ "url": "https://jihulab.com/xo2/fty/-/raw/main/xo.json", "name": "线路1(FTY-jihulab)" },
 
-{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "线路2(小米demo)" },
+{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "线路1(小米demo)" },
 
-{ "url": "https://jihulab.com/laoz/xyqtvbox0703/-/raw/main/XYQTVBox.json", "name": "线路3(XYQ-jihulab)" },
+{ "url": "https://jihulab.com/laoz/xyqtvbox0703/-/raw/main/XYQTVBox0714.json", "name": "线路2(XYQ-jihulab)" },
+
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyzjhe/XYQTVBox/main/XYQTVBox0714.json", "name": "线路3(XYQ-git)" },
 
 { "url": "https://jihulab.com/laoz/FongMi/-/raw/main/api_ooo.json", "name": "线路4(FM-jihu-other)" },
 
@@ -56,8 +58,6 @@
 
 //{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xy.json", "name": "线路15(xytv-xy-git)" },
 
-//{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/tvbox_config.json", "name": "线路16(zhixc-Cat-test)" },
-
 { "url": "https://agit.ai/kvymin/TV/raw/branch/master/Pandora.json", "name": "线路20(k-Pandora)" },
 
 { "url": "https://agit.ai/kvymin/TV/raw/branch/master/JavaScript.json", "name": "线路21(k-JavaScript)" },
@@ -74,13 +74,9 @@
 
 { "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路27(南风Yoursmile)" },
 
-//{ "url": "https://jihulab.com/laoz/xiu/-/raw/master/xiu.json", "name": "线路24(秀儿)" },
+{ "url": "https://agit.ai/laozou/laoliubei/raw/branch/main/m.json", "name": "线路28(laoliubei)" },
 
-//{ "url": "https://jihulab.com/laoz/xxzb/-/raw/master/hccx.json", "name": "线路25(荷城茶秀)" },
-
-//{ "url": "https://jihulab.com/laoz/xxzb/-/raw/master/ysj.json", "name": "线路26(荷城茶秀2)" },
-
-{ "url": "https://agit.ai/laozou/laoliubei/raw/branch/main/m.json", "name": "线路28(laoliubei)" }
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/tvbox_config.json", "name": "线路29(zhixc-Cat-test)" }
 
 ]
 
