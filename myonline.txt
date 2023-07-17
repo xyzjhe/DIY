@@ -10,7 +10,7 @@
 
 { "url": "clan://localhost/tvboxzz/FTY0716/api.json", "name": "线路c（clan-饭太硬）" },
 
-{ "url": "clan://localhost/tvboxzz/CatVodSpider/config.json", "name": "线路d（clan-FongMi）" },
+{ "url": "clan://localhost/tvboxzz/CatVodSpider/config_api.json", "name": "线路d（clan-FongMi）" },
 
 { "url": "http://127.0.0.1:9978/file/tvboxzz/00-bili2K/api.json", "name": "线路e（127-Bili4K）" },
 
@@ -18,7 +18,7 @@
 
 { "url": "http://127.0.0.1:9978/file/tvboxzz/FTY0716/api.json", "name": "线路f（127-饭太硬）" },
 
-{ "url": "http://127.0.0.1:9978/file/tvboxzz/CatVodSpider/config.json", "name": "线路h（127-FongMi）" },
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/CatVodSpider/config_api.json", "name": "线路h（127-FongMi）" },
 
 //{ "url": "file://tvboxzz/CatVodSpider/config.json", "name": "线路I（FongMi影视专用）" },
 
