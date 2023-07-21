@@ -20,6 +20,8 @@
 
 { "url": "http://127.0.0.1:9978/file/tvboxzz/CatVodSpider/config_api.json", "name": "线路h（127-FongMi）" },
 
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQTVBox/main/XYQTVBox0720.json", "name": "线路test(git-xyq)" },
+
 { "url": "https://jihulab.com/laoz/ali/-/raw/main/ali.json", "name": "线路0(maoJS+fty+xyq)" },
 
 { "url": "http://饭太硬.ml/tv", "name": "线路1(饭太硬ML)" },
@@ -38,65 +40,48 @@
 
 
 
-{ "url": "https://jihulab.com/laoz/gao/-/raw/master/0821.json", "name": "线路8(GAO-0821-full)" },
+{ "url": "https://agit.ai/kvymin/drpy_js/raw/branch/master/other.json", "name": "线路8(k-other-影视专用)" },
 
-{ "url": "https://jihulab.com/laoz/gao/-/raw/master/0825.json", "name": "线路9(GAO-0825-PG)" },
+{ "url": "https://agit.ai/kvymin/TV/raw/branch/master/Pandora.json", "name": "线路9(k-Pandora)" },
 
-{ "url": "https://jihulab.com/laoz/gao/-/raw/master/0826.json", "name": "线路10(GAO-0826-fty)" },
+{ "url": "https://agit.ai/kvymin/TV/raw/branch/master/JavaScript.json", "name": "线路10(k-JavaScript)" },
 
-{ "url": "https://jihulab.com/laoz/gao/-/raw/master/0827.json", "name": "线路11(GAO-0827-FongMi)" },
+{ "url": "https://agit.ai/kvymin/drpy_js/raw/branch/master/config.json", "name": "线路11(k-config)" },
 
-{ "url": "https://jihulab.com/laoz/gao/-/raw/master/js.json", "name": "线路12(GAO-js-cat)" },
+{ "url": "https://agit.ai/kvymin/pyramid/raw/branch/master/config.json", "name": "线路12(k-py)" },
+
+{ "url": "https://agit.ai/laozou/mtv/raw/branch/master/js&git&FM.json", "name": "线路13(JS&Git&FMali)" },
+
+{ "url": "https://jihulab.com/laoz/gao/-/raw/master/0821.json", "name": "线路14(GAO-0821-full)" },
+
+{ "url": "https://jihulab.com/laoz/gao/-/raw/master/0825.json", "name": "线路15(GAO-0825-PG)" },
+
+{ "url": "https://jihulab.com/laoz/gao/-/raw/master/0826.json", "name": "线路16(GAO-0826-fty)" },
+
+{ "url": "https://jihulab.com/laoz/gao/-/raw/master/0827.json", "name": "线路17(GAO-0827-FongMi)" },
+
+{ "url": "https://jihulab.com/laoz/gao/-/raw/master/js.json", "name": "线路18(GAO-js-cat)" },
 
 
+{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路19(南风Yoursmile)" },
 
-{ "url": "https://agit.ai/kvymin/TV/raw/branch/master/Pandora.json", "name": "线路13(k-Pandora)" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json", "name": "线路20(lm-git-PY)" },
 
-{ "url": "https://agit.ai/kvymin/TV/raw/branch/master/JavaScript.json", "name": "线路14(k-JavaScript)" },
+{ "url": "https://jihulab.com/laoz/PyramidStore/-/raw/pyramid/py_bilibilitv_proxied.json", "name": "线路21(Sandy-jihu-PY)" },
 
-{ "url": "https://agit.ai/kvymin/drpy_js/raw/branch/master/config.json", "name": "线路15(k-config)" },
+{ "url": "https://agit.ai/lanhaidixingren/Tvbox/raw/branch/master/1001.json", "name": "线路22(lanhaidixingren-CCTV)" },
 
-{ "url": "https://agit.ai/kvymin/drpy_js/raw/branch/master/other.json", "name": "线路16(k-other-影视专用)" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xy.json", "name": "线路23(xytv-xy-git)" },
 
-{ "url": "https://agit.ai/kvymin/pyramid/raw/branch/master/config.json", "name": "线路17(k-py)" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/tvbox_config.json", "name": "线路24(zhixc-Cat-test)" },
 
 
-
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路18(南风Yoursmile)" },
-
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json", "name": "线路19(lm-git-PY)" },
-
-{ "url": "https://jihulab.com/laoz/PyramidStore/-/raw/pyramid/py_bilibilitv_proxied.json", "name": "线路20(Sandy-jihu-PY)" },
-
-{ "url": "https://agit.ai/lanhaidixingren/Tvbox/raw/branch/master/1001.json", "name": "线路21(lanhaidixingren-CCTV)" },
-
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xy.json", "name": "线路22(xytv-xy-git)" },
-
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/tvbox_config.json", "name": "线路23(zhixc-Cat-test)" },
-
-{ "url": "https://agit.ai/laozou/mtv/raw/branch/master/js&git&FM.json", "name": "线路24(JS&Git&FMali)" },
 
 { "url": "https://agit.ai/elmosky/v1/raw/branch/main/z.json", "name": "线路25(elmosky)" },
 
 { "url": "https://agit.ai/lamdow8/ai/raw/branch/cc/new.json", "name": "线路26(lamdow8)" },
 
 { "url": "https://agit.ai/wjj415/w/raw/branch/master/x/奇奇后宫专用.json", "name": "线路27(wjj415)" }
-
-
-
-
-//{ "url": "https://jihulab.com/laoz/CatVodSpider/-/raw/main/json/config.json", "name": "线路23(FongMi-jihulab)" },
-
-//{ "url": "https://agit.ai/laozou/CatVodSpider/raw/branch/main/json/config.json", "name": "线路22(FongMi-agit)" },
-
-//{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQTVBox/main/XYQTVBox0714.json", "name": "线路26(XYQ-git)" },
-
-//{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/FongMi/main/api_fm.json", "name": "线路27(FM-git-FM)" },
-
-//{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/FongMi/main/api.json", "name": "线路28(FM-git)" },
-
-
-
 
 ]
 
