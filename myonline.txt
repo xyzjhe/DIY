@@ -20,13 +20,13 @@
 
 { "url": "http://127.0.0.1:9978/file/tvboxzz/CatVodSpider/config_api.json", "name": "线路h（127-FongMi）" },
 
-{ "url": "http://tvbox.top/fty.json", "name": "线路0(饭太硬top)" },
+{ "url": "https://jihulab.com/laoz/ali/-/raw/main/ali.json", "name": "线路0(maoJS+fty+xyq)" },
 
 { "url": "http://饭太硬.ml/tv", "name": "线路1(饭太硬ML)" },
 
 { "url": "http://xhww.fun:63/小米/DEMO.json", "name": "线路2(小米demo)" },
 
-{ "url": "https://jihulab.com/laoz/xyqtvbox0703/-/raw/main/XYQTVBox0714.json", "name": "线路3(XYQ-jihulab)" },
+{ "url": "https://jihulab.com/laoz/xyqtvbox0703/-/raw/main/XYQTVBox0720.json", "name": "线路3(XYQ-0720-jihulab)" },
 
 { "url": "https://jihulab.com/laoz/fm/-/raw/main/api.json", "name": "线路4(FM-jihu)" },
 
