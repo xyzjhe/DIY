@@ -20,7 +20,9 @@
 
 { "url": "http://127.0.0.1:9978/file/tvboxzz/CatVodSpider/config_api.json", "name": "线路h（127-FongMi）" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQTVBox/main/XYQTVBox0720.json", "name": "线路test(git-xyq)" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/test.json", "name": "线路test(git-3in1)" },
+
+{ "url": "https://jihulab.com/laoz/ali_allinone/-/raw/main/test.json", "name": "超级阿里(3in1-jihu)" },
 
 { "url": "https://jihulab.com/laoz/ali/-/raw/main/ali.json", "name": "线路0(maoJS+fty+xyq)" },
 
@@ -81,9 +83,18 @@
 
 { "url": "https://agit.ai/lamdow8/ai/raw/branch/cc/new.json", "name": "线路26(lamdow8)" },
 
-{ "url": "https://agit.ai/wjj415/w/raw/branch/master/x/奇奇后宫专用.json", "name": "线路27(wjj415)" }
+{ "url": "https://agit.ai/wjj415/w/raw/branch/master/x/奇奇后宫专用.json", "name": "线路27(wjj415)" },
 
-]
+{ "url": "https://lantongxue.cc/s.json", "name": "线路28(lantongxue装13版)" }
+
+],
+
+vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
 
 }
 
