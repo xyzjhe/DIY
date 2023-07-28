@@ -20,13 +20,13 @@
 
 { "url": "http://127.0.0.1:9978/file/tvboxzz/CatVodSpider/config_api.json", "name": "线路h（127-FongMi）" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/test.json", "name": "线路test(git-3in1)" },
-
-{ "url": "https://jihulab.com/laoz/ali/-/raw/main/ali.json", "name": "线路0(maoJS+fty+xyq)" },
-
-{ "url": "http://饭太硬.top/tv", "name": "线路1(饭太硬top)" },
+{ "url": "https://jihulab.com/laoz/pg_FM/-/raw/master/pg_FM.json", "name": "线路test(jihu-PG_FM)" },
 
 { "url": "https://jihulab.com/laoz/ali_allinone/-/raw/main/test.json", "name": "Super_Ali(3in1-jihu)" },
+
+{ "url": "https://jihulab.com/laoz/ali/-/raw/main/ali.json", "name": "线路1(maoJS+fty+xyq)" },
+
+{ "url": "http://饭太硬.top/tv", "name": "线路2(饭太硬top)" },
 
 { "url": "https://jihulab.com/laoz/xyqtvbox0703/-/raw/main/XYQTVBox0720.json", "name": "线路3(XYQ-0720-jihulab)" },
 
@@ -83,7 +83,11 @@
 
 { "url": "https://agit.ai/wjj415/w/raw/branch/master/x/奇奇后宫专用.json", "name": "线路27(wjj415)" },
 
-{ "url": "https://jihulab.com/laoz/LanENG/-/raw/main/s.json", "name": "线路28(lantongxue装13版)" }
+{ "url": "https://agit.ai/zhoujck/config/raw/branch/master/box", "name": "线路28(zhoujck)" },
+
+{ "url": "https://jihulab.com/xo2/fty/-/raw/main/xo.json", "name": "线路29(FTY-xo2-jihu)" },
+
+{ "url": "https://jihulab.com/laoz/LanENG/-/raw/main/s.json", "name": "线路30(lantongxue装13版)" }
 
 ],
 
