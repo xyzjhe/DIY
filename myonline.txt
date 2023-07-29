@@ -87,7 +87,9 @@
 
 { "url": "https://jihulab.com/xo2/fty/-/raw/main/xo.json", "name": "线路29(FTY-xo2-jihu)" },
 
-{ "url": "https://jihulab.com/laoz/LanENG/-/raw/main/s.json", "name": "线路30(lantongxue装13版)" }
+{ "url": "https://agit.ai/laozou/testall/raw/branch/master/JN/lem_J.json", "name": "线路30(n3rd-lem)" },
+
+{ "url": "https://jihulab.com/laoz/LanENG/-/raw/main/s.json", "name": "线路31(lantongxue装13版)" }
 
 ],
 
