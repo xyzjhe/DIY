@@ -28,7 +28,7 @@
 
 { "url": "http://饭太硬.top/tv", "name": "线路2(饭太硬top)" },
 
-{ "url": "https://jihulab.com/laoz/xyqtvbox0703/-/raw/main/XYQTVBox0720.json", "name": "线路3(XYQ-0720-jihulab)" },
+{ "url": "https://jihulab.com/laoz/xyqtvbox0703/-/raw/main/XYQTVBox0727.json", "name": "线路3(XYQ-0720-jihulab)" },
 
 { "url": "https://jihulab.com/laoz/fm/-/raw/main/api.json", "name": "线路4(FM-jihu)" },
 
@@ -37,8 +37,6 @@
 { "url": "https://jihulab.com/laoz/fm/-/raw/main/api_fm.json", "name": "线路6(FM-jihu-影视专用)" },
 
 { "url": "https://agit.ai/laozou/ForMi/raw/branch/main/api_FM.json", "name": "线路7(FM-agit-影视专用)" },
-
-
 
 { "url": "https://agit.ai/kvymin/drpy_js/raw/branch/master/other.json", "name": "线路8(k-other-影视专用)" },
 
@@ -60,8 +58,7 @@
 
 { "url": "https://jihulab.com/laoz/gao/-/raw/master/0827.json", "name": "线路17(GAO-0827-FongMi)" },
 
-{ "url": "https://jihulab.com/laoz/gao/-/raw/master/js.json", "name": "线路18(GAO-js-cat)" },
-
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQTVBox/main/XYQTVBox0727.json", "name": "线路18(test-xyq-git)" },
 
 { "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路19(南风Yoursmile)" },
 
