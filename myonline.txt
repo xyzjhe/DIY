@@ -20,7 +20,7 @@
 
 { "url": "http://127.0.0.1:9978/file/tvboxzz/CatVodSpider/config_api.json", "name": "线路h（127-FongMi）" },
 
-{ "url": "https://jihulab.com/laoz/pg_FM/-/raw/master/pg_FM.json", "name": "线路test(jihu-PG_FM)" },
+{ "url": "https://jihulab.com/laoz/pg_FM/-/raw/master/pg_FM.json", "name": "线路test(PG_FM-jihu)" },
 
 { "url": "https://jihulab.com/laoz/ali_allinone/-/raw/main/test.json", "name": "Super_Ali(3in1-jihu)" },
 
@@ -28,7 +28,7 @@
 
 { "url": "http://饭太硬.top/tv", "name": "线路2(饭太硬top)" },
 
-{ "url": "https://jihulab.com/laoz/xyqtvbox0703/-/raw/main/XYQTVBox0727.json", "name": "线路3(XYQ-0720-jihulab)" },
+{ "url": "https://jihulab.com/laoz/xyqtvbox0703/-/raw/main/XYQTVBox0727.json", "name": "线路3(XYQ-0727-jihu)" },
 
 { "url": "https://jihulab.com/laoz/fm/-/raw/main/api.json", "name": "线路4(FM-jihu)" },
 
@@ -72,8 +72,6 @@
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/tvbox_config.json", "name": "线路24(zhixc-Cat-test)" },
 
-//{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "线路2(小米demo)" },
-
 { "url": "https://agit.ai/elmosky/v1/raw/branch/main/z.json", "name": "线路25(elmosky)" },
 
 { "url": "https://agit.ai/lamdow8/ai/raw/branch/cc/new.json", "name": "线路26(lamdow8)" },
@@ -86,7 +84,11 @@
 
 { "url": "https://agit.ai/laozou/testall/raw/branch/master/JN/lem_J.json", "name": "线路30(n3rd-lem)" },
 
-{ "url": "https://jihulab.com/laoz/LanENG/-/raw/main/s.json", "name": "线路31(lantongxue装13版)" }
+{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "线路31(小米demo)" },
+
+{ "url": "https://agit.ai/alanchaotang/if/raw/branch/main/X.json", "name": "线路32(湯影視TV_X)" },
+
+{ "url": "https://jihulab.com/laoz/LanENG/-/raw/main/s.json", "name": "线路33(lantongxue装13版)" }
 
 ],
 
