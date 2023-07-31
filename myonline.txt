@@ -58,7 +58,9 @@
 
 { "url": "https://jihulab.com/laoz/gao/-/raw/master/0827.json", "name": "线路17(GAO-0827-FongMi)" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQTVBox/main/XYQTVBox0727.json", "name": "线路18(test-xyq-git)" },
+{ "url": "https://jihulab.com/laoz/gao/-/raw/master/XBPQ.json?ref_type=heads", "name": "线路18(GAO-XBPQ-XIAOMI)" },
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/test.json", "name": "线路Test(test-3in1-git)" },
 
 { "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路19(南风Yoursmile)" },
 
