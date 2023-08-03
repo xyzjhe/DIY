@@ -20,7 +20,9 @@
 
 { "url": "http://127.0.0.1:9978/file/tvboxzz/CatVodSpider/config_api.json", "name": "线路h（127-FongMi）" },
 
-{ "url": "https://jihulab.com/laoz/pg_FM/-/raw/master/pg_FM.json", "name": "线路test(PG_FM-jihu)" },
+{ "url": "https://jihulab.com/laoz/pg_FM/-/raw/master/pg_FM.json", "name": "线路test1(PG_FM-jihu)" },
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/test.json", "name": "线路test2(ali_3IN1-git)" },
 
 { "url": "https://jihulab.com/laoz/ali_allinone/-/raw/main/test.json", "name": "Super_Ali(3in1-jihu)" },
 
@@ -59,8 +61,6 @@
 { "url": "https://jihulab.com/laoz/gao/-/raw/master/0827.json", "name": "线路17(GAO-0827-FongMi)" },
 
 { "url": "https://jihulab.com/laoz/gao/-/raw/master/XBPQ.json?ref_type=heads", "name": "线路18(GAO-XBPQ-XIAOMI)" },
-
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/test.json", "name": "线路Test(test-3in1-git)" },
 
 { "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路19(南风Yoursmile)" },
 
