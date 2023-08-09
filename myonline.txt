@@ -8,13 +8,13 @@
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/test.json", "name": "线路test1 (ali_3IN1-git)" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQTVBox/main/XYQTVBox0802.json", "name": "线路test2 (xyq-git)" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/laoZIshuDaoS/main/XYQTVBox0808.json", "name": "线路test2 (xyq-git)" },
 
 { "url": "clan://localhost/tvboxzz/00-bili2K/api.json", "name": "线路0（clan-Bili4K）" },
 
 { "url": "http://127.0.0.1:9978/file/tvboxzz/00-bili2K/api.json", "name": "线路1（127-Bili4K）" },
 
-{ "url": "https://jihulab.com/laoz/xyqtvbox0703/-/raw/main/XYQTVBox0802.json?ref_type=heads", "name": "线路2 (xyq0802-jihu)" },
+{ "url": "https://jihulab.com/laoz/laozishudaos/-/raw/main/XYQTVBox0808.json?ref_type=heads", "name": "线路2 (xyq0808-jihu)" },
 
 { "url": "http://饭太硬.top/tv", "name": "线路3 (饭太硬top)" },
 
@@ -48,6 +48,8 @@
 
 { "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json", "name": "线路18 (k-Box)" },
 
+{ "url": "https://agit.ai/kvymin/-/raw/branch/master/config.json", "name": "线路test3 (k-xytv-test)" },
+
 { "url": "https://agit.ai/kvymin/TV/raw/branch/master/JavaScript.json", "name": "线路19 (k-JavaScript)" },
 
 { "url": "https://agit.ai/kvymin/drpy_js/raw/branch/master/config.json", "name": "线路20 (k-config)" },
@@ -56,7 +58,7 @@
 
 { "url": "https://agit.ai/kvymin/pyramid/raw/branch/master/config.json", "name": "线路22 (k-py)" },
 
-{ "url": "https://jihulab.com/xo2/fty/-/raw/main/xo.json", "name": "线路23 (FTY-xo2-jihu)" },
+{ "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json", "name": "线路23 (ddx_T4-agit)" },
 
 { "url": "https://agit.ai/alanchaotang/if/raw/branch/main/X.json", "name": "线路24 (湯影視TV_X)" },
 
@@ -72,9 +74,15 @@
 
 { "url": "https://agit.ai/zhoujck/config/raw/branch/master/box", "name": "线路30 (zhoujck)" },
 
-{ "url": "https://agit.ai/laozou/testall/raw/branch/master/JN/lem_J.json", "name": "线路31 (n3rd-lem)" },
+//{ "url": "https://agit.ai/laozou/testall/raw/branch/master/JN/lem_J.json", "name": "线路31 (n3rd-lem)" },
 
-{ "url": "https://jihulab.com/laoz/LanENG/-/raw/main/s.json", "name": "线路32 (lantongxue装13版)" }
+{ "url": "https://agit.ai/cacifer/hao/raw/branch/master/q.json", "name": "线路31 (cacifer)" },
+
+{ "url": "https://agit.ai/Amanchi/Am/raw/branch/master/am.json", "name": "线路32 (Amanchi_am)" },
+
+{ "url": "https://agit.ai/Amanchi/Am/raw/branch/master/aw.json", "name": "线路33 (Amanchi_aw)" },
+
+{ "url": "https://jihulab.com/laoz/LanENG/-/raw/main/s.json", "name": "线路34 (lantongxue装13版)" }
 
 
 ],
