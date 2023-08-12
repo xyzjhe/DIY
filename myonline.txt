@@ -10,9 +10,17 @@
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/laoZIshuDaoS/main/XYQTVBox0808.json", "name": "线路test2 (xyq-git)" },
 
+{ "url": "https://agit.ai/kvymin/-/raw/branch/master/config.json", "name": "线路test3 (k-xytv-test)" },
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XiaoDengTa/main/api_child.json", "name": "线路test4 (小灯塔-git)" },
+
+{ "url": "https://agit.ai/laozou/laoZitest/raw/branch/main/config/TVBox.json", "name": "线路test5 (test-agit)" },
+
 { "url": "clan://localhost/tvboxzz/00-bili2K/api.json", "name": "线路0（clan-Bili4K）" },
 
-{ "url": "http://127.0.0.1:9978/file/tvboxzz/00-bili2K/api.json", "name": "线路1（127-Bili4K）" },
+{ "url": "http://127.0.0.1:9978/file/tvboxzz/00-bili2K/api.json", "name": "线路0b（127-Bili4K）" },
+
+{ "url": "https://jihulab.com/laoz/XiaoDengTa/-/raw/main/api_child.json?ref_type=heads", "name": "线路1 (小灯塔-jihu)" },
 
 { "url": "https://jihulab.com/laoz/laozishudaos/-/raw/main/XYQTVBox0808.json?ref_type=heads", "name": "线路2 (xyq0808-jihu)" },
 
@@ -21,6 +29,8 @@
 { "url": "http://xhww.fun:63/小米/DEMO.json", "name": "线路4 (小米demo)" },
 
 { "url": "https://agit.ai/laozou/mtv/raw/branch/master/js&git&FM.json", "name": "线路5 (JS&Git&FMali)" },
+
+{ "url": "https://agit.ai/laozou/mtv/raw/branch/master/config.json", "name": "线路5b (DRPY_Git)" },
 
 { "url": "https://jihulab.com/laoz/gao/-/raw/master/0821.json", "name": "线路6 (GAO-0821-full)" },
 
@@ -48,8 +58,6 @@
 
 { "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json", "name": "线路18 (k-Box)" },
 
-{ "url": "https://agit.ai/kvymin/-/raw/branch/master/config.json", "name": "线路test3 (k-xytv-test)" },
-
 { "url": "https://agit.ai/kvymin/TV/raw/branch/master/JavaScript.json", "name": "线路19 (k-JavaScript)" },
 
 { "url": "https://agit.ai/kvymin/drpy_js/raw/branch/master/config.json", "name": "线路20 (k-config)" },
@@ -73,8 +81,6 @@
 { "url": "https://agit.ai/wjj415/w/raw/branch/master/x/奇奇后宫专用.json", "name": "线路29 (wjj415)" },
 
 { "url": "https://agit.ai/zhoujck/config/raw/branch/master/box", "name": "线路30 (zhoujck)" },
-
-//{ "url": "https://agit.ai/laozou/testall/raw/branch/master/JN/lem_J.json", "name": "线路31 (n3rd-lem)" },
 
 { "url": "https://agit.ai/cacifer/hao/raw/branch/master/q.json", "name": "线路31 (cacifer)" },
 
