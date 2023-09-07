@@ -34,9 +34,13 @@
 
 { "url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/cat.json", "name": "线路9 (GAO-cat-mao)" },
 
-{ "url": "https://agit.ai/cacifer/4K/raw/branch/master/diy.json", "name": "线路10 (cacifer_diy)" },
+{ "url": "https://agit.ai/cacifer/fm/raw/branch/master/fm.json", "name": "线路10 (cacifer_fm)" },
 
-{ "url": "https://agit.ai/cacifer/4K/raw/branch/master/q.json", "name": "线路11 (cacifer_q)" },
+{ "url": "https://agit.ai/cacifer/4K/raw/branch/master/diy.json", "name": "线路11 (cacifer_diy)" },
+
+{ "url": "https://agit.ai/cacifer/4K/raw/branch/master/q.json", "name": "线路11b (cacifer_q)" },
+
+
 
 { "url": "https://jihulab.com/laoz/tvbox-p/-/raw/main/api2.json?ref_type=heads", "name": "线路12 (PizazzGY_TVBox)" },
 
