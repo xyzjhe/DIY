@@ -18,6 +18,8 @@
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/fanLAO/main/fan.json", "name": "🐻|饭太硬git|🐻" },
 
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/FongMiLAO/main/config.json", "name": "🐝|蜜蜂git|🐝" },
+
 { "url": "http://饭太硬.top/tv", "name": "🐰线路0 (饭太硬top)"},
 
 { "url": "http://smr.xzam.cn:66/tv", "name": "🐶线路1 (Xiaohu-xzam)"}, 
@@ -38,35 +40,31 @@
 
 { "url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/cat.json", "name": "线路9 (GAO-cat-mao)" },
 
-{ "url": "https://agit.ai/cacifer/fm/raw/branch/master/fm.json", "name": "线路10 (cacifer_fm)" },
+{ "url": "https://agit.ai/kvymin/TV/raw/branch/master/Pandora.json", "name": "线路10 (k_TV-Pandora)" },
 
-{ "url": "https://agit.ai/cacifer/4K/raw/branch/master/diy.json", "name": "线路11 (cacifer_diy)" },
+{ "url": "https://agit.ai/kvymin/TV/raw/branch/master/JavaScript.json", "name": "线路11 (k_TV-JavaScript)" },
 
-{ "url": "https://agit.ai/cacifer/4K/raw/branch/master/q.json", "name": "线路11b (cacifer_q)" },
+{ "url": "https://agit.ai/kvymin/TV/raw/branch/master/aliDrive.json", "name": "线路12 (k_TV-aliDrive)" },
 
+{ "url": "https://agit.ai/laozou/mtv/raw/branch/master/js&git&FM.json", "name": "线路13 (JS&Git&FM_ali)" },
 
+{ "url": "https://agit.ai/laozou/mtv/raw/branch/master/config.json", "name": "线路15 (DRPY_Git)" },
 
-{ "url": "https://jihulab.com/laoz/tvbox-p/-/raw/main/api2.json?ref_type=heads", "name": "线路12 (PizazzGY_TVBox)" },
+{ "url": "https://jihulab.com/laoz/tvbox-p/-/raw/main/api2.json?ref_type=heads", "name": "线路16 (PizazzGY_TVBox)" },
 
-{ "url": "https://jihulab.com/laoz/my/-/raw/main/my.json?ref_type=heads", "name": "线路13 (bluefriendCN_my)" },
+{ "url": "https://jihulab.com/laoz/my/-/raw/main/my.json?ref_type=heads", "name": "线路17 (bluefriendCN_my)" },
 
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路14 (南风Yoursmile)" },
+{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路18 (南风Yoursmile)" },
 
-{ "url": "https://agit.ai/kvymin/TV/raw/branch/master/Pandora.json", "name": "线路15 (k_TV-Pandora)" },
+{ "url": "https://agit.ai/alanchaotang/if/raw/branch/main/X.json", "name": "线路19 (湯影視TV_X)" },
 
-{ "url": "https://agit.ai/kvymin/TV/raw/branch/master/JavaScript.json", "name": "线路16 (k_TV-JavaScript)" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/LanENG/main/s.json", "name": "线路20 (lan-git)" },
 
-{ "url": "https://agit.ai/kvymin/TV/raw/branch/master/aliDrive.json", "name": "线路17 (k_TV-aliDrive)" },
+{ "url": "https://agit.ai/cacifer/fm/raw/branch/master/fm.json", "name": "线路21 (cacifer_fm)" },
 
-{ "url": "https://agit.ai/laozou/mtv/raw/branch/master/js&git&FM.json", "name": "线路18 (JS&Git&FM_ali)" },
+{ "url": "https://agit.ai/cacifer/4K/raw/branch/master/diy.json", "name": "线路22 (cacifer_diy)" },
 
-{ "url": "https://agit.ai/laozou/mtv/raw/branch/master/config.json", "name": "线路19 (DRPY_Git)" },
-
-{ "url": "https://agit.ai/alanchaotang/if/raw/branch/main/X.json", "name": "线路20 (湯影視TV_X)" },
-
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/LanENG/main/s.json", "name": "线路21 (lan-git)" },
-
-
+{ "url": "https://agit.ai/cacifer/4K/raw/branch/master/q.json", "name": "线路23 (cacifer_q)" },
 
 { "url": "clan://localhost/tvbox/88-laoZtest/tvbox.json", "name": "线路test1 (laoZ_test_clan)" },
 
