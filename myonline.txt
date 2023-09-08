@@ -20,6 +20,8 @@
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/FongMiLAO/main/config.json", "name": "🐝|蜜蜂git|🐝" },
 
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/PG_LAO/master/pg_config.json", "name": "🦁|PG_git|🦁" },
+
 { "url": "http://饭太硬.top/tv", "name": "🐰线路0 (饭太硬top)"},
 
 { "url": "http://smr.xzam.cn:66/tv", "name": "🐶线路1 (Xiaohu-xzam)"}, 
