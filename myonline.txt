@@ -18,6 +18,12 @@
 
 { "url": "clan://localhost/tvbox/00-bili4K/api_xdt_xyq.json", "name": "🍉|线路F (clan-小灯塔)|🍉" },
 
+{ "url": "https://gitea.com/xyzjhe/XiangLAO/raw/branch/main/XYQTVBox.json", "name": "🦊|香雅晴gitea|🦊" },
+
+{ "url": "https://gitea.com/xyzjhe/fanLAO/raw/branch/main/fan.json", "name": "🐻|饭太硬gitea|🐻" },
+
+{ "url": "https://gitea.com/xyzjhe/FongMiLAO/raw/branch/main/config.json", "name": "🐝|蜜蜂gitea|🐝" },
+
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/api0828.json", "name": " 🐶|超级线路git(3in1-git)| 🐶" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XiangLAO/main/XYQTVBox.json", "name": "🦊|香雅晴git|🦊" },
