@@ -18,12 +18,6 @@
 
 { "url": "clan://localhost/tvbox/00-bili4K/api_xdt_xyq.json", "name": "🍉|线路F (clan-小灯塔)|🍉" },
 
-{ "url": "https://gitea.com/xyzjhe/XiangLAO/raw/branch/main/XYQTVBox.json", "name": "🦊|香雅晴gitea|🦊" },
-
-{ "url": "https://gitea.com/xyzjhe/fanLAO/raw/branch/main/fan.json", "name": "🐻|饭太硬gitea|🐻" },
-
-{ "url": "https://gitea.com/xyzjhe/FongMiLAO/raw/branch/main/config.json", "name": "🐝|蜜蜂gitea|🐝" },
-
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/api0828.json", "name": " 🐶|超级线路git(3in1-git)| 🐶" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XiangLAO/main/XYQTVBox.json", "name": "🦊|香雅晴git|🦊" },
@@ -66,19 +60,13 @@
 
 { "url": "https://agit.ai/laozou/mtv/raw/branch/master/config.json", "name": "线路16 (DRPY_Git)" },
 
-{ "url": "https://jihulab.com/laoz/tvbox-p/-/raw/main/api2.json?ref_type=heads", "name": "线路17 (PizazzGY_TVBox)" },
+{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路17 (南风Yoursmile)" },
 
-{ "url": "https://jihulab.com/laoz/my/-/raw/main/my.json?ref_type=heads", "name": "线路18 (bluefriendCN_my)" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/FM.json", "name": "线路18 (139-FM-git)" },
 
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路19 (南风Yoursmile)" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/PG.json", "name": "线路19 (139-PG-git)" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/LanENG/main/s.json", "name": "线路20 (lan-git)" },
-
-//{ "url": "https://agit.ai/cacifer/fm/raw/branch/master/fm.json", "name": "线路21 (cacifer_fm)" },
-
-//{ "url": "https://agit.ai/cacifer/4K/raw/branch/master/diy.json", "name": "线路22 (cacifer_diy)" },
-
-//{ "url": "https://agit.ai/cacifer/4K/raw/branch/master/q.json", "name": "线路23 (cacifer_q)" },
 
 { "url": "clan://localhost/tvbox/88-laoZtest/tvbox.json", "name": "线路T test1 (laoZ_test_clan)" },
 
