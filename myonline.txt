@@ -66,7 +66,9 @@
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/PG.json", "name": "线路19 (139-PG-git)" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/LanENG/main/s.json", "name": "线路20 (lan-git)" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json", "name": "线路20 (PizazzGY-git)" },
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/LanENG/main/s.json", "name": "线路21 (lan-git)" },
 
 { "url": "clan://localhost/tvbox/88-laoZtest/tvbox.json", "name": "线路T test1 (laoZ_test_clan)" },
 
