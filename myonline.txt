@@ -4,8 +4,6 @@
 
 [
 
-{ "url": "https://jihulab.com/test2850536/3in1/-/raw/main/api0828.json?ref_type=heads", "name": "🍎|超级线路jihu(3in1-lab)|🍎" },
-
 { "url": "clan://localhost/tvbox/99-3in1/api0828.json", "name": "🍏|线路A (clan-3in1)| 🍏" },
 
 { "url": "clan://localhost/tvbox/91-fanLAO-main/fan.json", "name": " 🍐|线路B (clan-饭太硬)| 🍐" },
@@ -17,6 +15,8 @@
 { "url": "clan://localhost/tvbox/00-bili4K/api _test_fty.json", "name": "🍌|线路E (clan-Bilibili大全)|🍌" },
 
 { "url": "clan://localhost/tvbox/00-bili4K/api_xdt_xyq.json", "name": "🍉|线路F (clan-小灯塔)|🍉" },
+
+{ "url": "https://jihulab.com/test2850536/3in1_test/-/raw/main/api0828.json?ref_type=heads", "name": "🍎|超级线路jihu(3in1-lab)|🍎" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/api0828.json", "name": " 🐶|超级线路git(3in1-git)| 🐶" },
 
@@ -67,6 +67,8 @@
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/PG.json", "name": "线路19 (139-PG-git)" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json", "name": "线路20 (PizazzGY-git)" },
+
+
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/LanENG/main/s.json", "name": "线路21 (lan-git)" },
 
