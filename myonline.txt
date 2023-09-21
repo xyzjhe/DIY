@@ -4,6 +4,14 @@
 
 [
 
+{ "url": "https://jihulab.com/test2850536/3in1_test/-/raw/main/api.json?ref_type=heads", "name": "🍎|超级线路jihu(3in1-lab)|🍎" },
+
+{ "url": "https://jihulab.com/LaoZZZ/allinone/-/raw/main/XYQTVBox.json?ref_type=heads", "name": "🦊|香雅晴jihu|🦊" },
+
+{ "url": "https://jihulab.com/LaoZZZ/allinone/-/raw/main/fan.json?ref_type=heads", "name": "🐻|饭太硬jihu|🐻" },
+
+{ "url": "https://jihulab.com/LaoZZZ/allinone/-/raw/main/fongmi.json?ref_type=heads", "name": "🐝|蜜蜂jihu|🐝" },    
+
 { "url": "clan://localhost/tvbox/99-3in1/api0828.json", "name": "🍏|线路A (clan-3in1)| 🍏" },
 
 { "url": "clan://localhost/tvbox/91-fanLAO-main/fan.json", "name": " 🍐|线路B (clan-饭太硬)| 🍐" },
@@ -16,17 +24,13 @@
 
 { "url": "clan://localhost/tvbox/00-bili4K/api_xdt_xyq.json", "name": "🍉|线路F (clan-小灯塔)|🍉" },
 
-{ "url": "https://jihulab.com/test2850536/3in1_test/-/raw/main/api.json?ref_type=heads", "name": "🍎|超级线路jihu(3in1-lab)|🍎" },
-
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/api0828.json", "name": " 🐶|超级线路git(3in1-git)| 🐶" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox.json", "name": "🦊|香雅晴git|🦊" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/fanLAO/main/fan.json", "name": "🐻|饭太硬git|🐻" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/fan.json", "name": "🐻|饭太硬git|🐻" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/FongMiLAO/main/config.json", "name": "🐝|蜜蜂git|🐝" },
-
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/PG_LAO/master/pg_config.json", "name": "🦁|PG_git|影视专用🦁" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/fongmi.json", "name": "🐝|蜜蜂git|🐝" },
 
 { "url": "http://饭太硬.top/tv", "name": "线路1 (饭太硬top)"},
 
