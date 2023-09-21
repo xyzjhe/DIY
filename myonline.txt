@@ -20,7 +20,7 @@
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/api0828.json", "name": " 🐶|超级线路git(3in1-git)| 🐶" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XiangLAO/main/XYQTVBox.json", "name": "🦊|香雅晴git|🦊" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox.json", "name": "🦊|香雅晴git|🦊" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/fanLAO/main/fan.json", "name": "🐻|饭太硬git|🐻" },
 
