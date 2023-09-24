@@ -6,11 +6,11 @@
 
 { "url": "https://jihulab.com/LaoZZZ/3in1/-/raw/main/api0828.json?ref_type=heads", "name": "🍎|超级线路jihu(3in1-lab)|🍎" },
 
-{ "url": "https://jihulab.com/LaoZZZ/allinone/-/raw/main/XYQTVBox.json?ref_type=heads", "name": "线路a 🦊|香雅晴jihu|🦊" },
+{ "url": "https://jihulab.com/LaoZZZ/all_in_one/-/raw/main/XYQTVBox.json?ref_type=heads", "name": "线路a 🦊|香雅晴jihu|🦊" },
 
-{ "url": "https://jihulab.com/LaoZZZ/allinone/-/raw/main/fan.json?ref_type=heads", "name": "线路b 🐻|饭太硬jihu|🐻" },
+{ "url": "https://jihulab.com/LaoZZZ/all_in_one/-/raw/main/fan.json?ref_type=heads", "name": "线路b 🐻|饭太硬jihu|🐻" },
 
-{ "url": "https://jihulab.com/LaoZZZ/allinone/-/raw/main/fongmi.json?ref_type=heads", "name": "线路c 🐝|蜜蜂jihu|🐝" },    
+{ "url": "https://jihulab.com/LaoZZZ/all_in_one/-/raw/main/fongmi.json?ref_type=heads", "name": "线路c 🐝|蜜蜂jihu|🐝" },    
 
 { "url": "clan://localhost/tvbox/99-3in1/api0828.json", "name": "🍏|线路A (clan-3in1)| 🍏" },
 
