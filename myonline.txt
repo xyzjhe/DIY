@@ -12,7 +12,7 @@
 
 { "url": "https://jihulab.com/LaoZZZ/all_in_one/-/raw/main/fongmi.json?ref_type=heads", "name": "线路c 🐝|蜜蜂jihu|🐝" },    
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json", "name": "|yydf-git|" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json", "name": "🦞|yydf-git|🦞" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/api0828.json", "name": " 🐶|超级线路git(3in1-git)| 🐶" },
 
@@ -28,6 +28,8 @@
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/tvbox_config.json", "name": "🐤|zhixc_git|🐤" },
 
+
+
 { "url": "clan://localhost/tvbox/99-3in1/api0828.json", "name": "🍏|线路A (clan-3in1)| 🍏" },
 
 { "url": "clan://localhost/tvbox/91-fanLAO-main/fan.json", "name": " 🍐|线路B (clan-饭太硬)| 🍐" },
@@ -39,6 +41,8 @@
 { "url": "clan://localhost/tvbox/00-bili4K/api _test_fty.json", "name": "🍌|线路E (clan-Bilibili大全)|🍌" },
 
 { "url": "clan://localhost/tvbox/00-bili4K/api_xdt_xyq.json", "name": "🍉|线路F (clan-小灯塔)|🍉" },
+
+{ "url": "https://agit.ai/wwz09/ubuntu/raw/branch/master/main.json", "name": " 线路0 (wwz09-main)" },
 
 { "url": "http://饭太硬.top/tv", "name": "线路1 (饭太硬top)"},
 
