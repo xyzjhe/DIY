@@ -6,19 +6,19 @@
 
 { "url": "https://agit.ai/laozou/3in1/raw/branch/main/api0828.json", "name": "🍎|超级线路agit(3in1)|🍎" },
 
-{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/XYQTVBox.json", "name": "线路a 🦊|香雅晴agit|🦊" },
+{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/fan.json", "name": "线路a 🐻|饭太硬agit|🐻" },
 
-{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/fan.json", "name": "线路b 🐻|饭太硬agit|🐻" },
+{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/fongmi.json", "name": "线路b 🐝|蜜蜂agit|🐝" },  
 
-{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/fongmi.json", "name": "线路c 🐝|蜜蜂agit|🐝" },    
+{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/XYQTVBox.json", "name": "线路c 🦊|香雅晴agit|🦊" },  
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/api0828.json", "name": " 🐶|超级线路git(3in1-git)| 🐶" },
-
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox.json", "name": "🦊|香雅晴git|🦊" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/fan.json", "name": "🐻|饭太硬git|🐻" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/fongmi.json", "name": "🐝|蜜蜂git|🐝" },
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox.json", "name": "🦊|香雅晴git|🦊" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json", "name": "🦞|yydf-git|🦞" },
 
@@ -26,11 +26,11 @@
 
 { "url": "clan://localhost/tvbox/99-3in1/api0828.json", "name": "🍏|线路A (clan-3in1)| 🍏" },
 
-{ "url": "clan://localhost/tvbox/91-fanLAO-main/fan.json", "name": " 🍐|线路B (clan-饭太硬)| 🍐" },
+{ "url": "clan://localhost/tvbox/100-allinone-main//fan.json", "name": " 🍐|线路B (clan-饭太硬)| 🍐" },
 
-{ "url": "clan://localhost/tvbox/92-FongMiLAO-main/config.json", "name": "🍊|线路C (clan-蜜蜂)|🍊" },
+{ "url": "clan://localhost/tvbox/100-allinone-main/fongmi.json", "name": "🍊|线路C (clan-蜜蜂)|🍊" },
 
-{ "url": "clan://localhost/tvbox/93-XiangLAO-main/XYQTVBox.json", "name": "🍋|线路D (clan-香雅晴)|🍋" },
+{ "url": "clan://localhost/tvbox/100-allinone-main/XYQTVBox.json", "name": "🍋|线路D (clan-香雅晴)|🍋" },
 
 { "url": "clan://localhost/tvbox/00-bili4K/api _test_fty.json", "name": "🍌|线路E (clan-Bilibili大全)|🍌" },
 
