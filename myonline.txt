@@ -4,13 +4,13 @@
 
 [
 
-{ "url": "https://jihulab.com/LaoZZZ/3in1/-/raw/main/api0828.json?ref_type=heads", "name": "🍎|超级线路jihu(3in1-lab)|🍎" },
+{ "url": "https://agit.ai/laozou/3in1/raw/branch/main/api0828.json", "name": "🍎|超级线路agit(3in1)|🍎" },
 
-{ "url": "https://jihulab.com/LaoZZZ/all_in_one/-/raw/main/XYQTVBox.json?ref_type=heads", "name": "线路a 🦊|香雅晴jihu|🦊" },
+{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/XYQTVBox.json", "name": "线路a 🦊|香雅晴agit|🦊" },
 
-{ "url": "https://jihulab.com/LaoZZZ/all_in_one/-/raw/main/fan.json?ref_type=heads", "name": "线路b 🐻|饭太硬jihu|🐻" },
+{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/fan.json", "name": "线路b 🐻|饭太硬agit|🐻" },
 
-{ "url": "https://jihulab.com/LaoZZZ/all_in_one/-/raw/main/fongmi.json?ref_type=heads", "name": "线路c 🐝|蜜蜂jihu|🐝" },    
+{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/fongmi.json", "name": "线路c 🐝|蜜蜂agit|🐝" },    
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/api0828.json", "name": " 🐶|超级线路git(3in1-git)| 🐶" },
 
