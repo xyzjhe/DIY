@@ -84,7 +84,9 @@
 
 { "url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/9918.json", "name": "线路26 (🔞GAO-9918-影视)" },
 
-{ "url": "clan://localhost/tvbox/88-laoZtest/tvbox.json", "name": "线路27 test1 (laoZ_test_clan)" }
+{ "url": "https://agit.ai/zhoujck/config/raw/branch/master/box", "name": "线路27 (zhoujck-box)" },
+
+{ "url": "clan://localhost/tvbox/88-laoZtest/tvbox.json", "name": "线路28 test1 (laoZ_test_clan)" }
 
 ],
 
