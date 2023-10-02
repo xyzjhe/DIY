@@ -86,7 +86,11 @@
 
 { "url": "https://agit.ai/zhoujck/config/raw/branch/master/box", "name": "线路27 (zhoujck-box)" },
 
-{ "url": "clan://localhost/tvbox/88-laoZtest/tvbox.json", "name": "线路28 test1 (laoZ_test_clan)" }
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json", "name": "线路28 (loopool-fty-git)" },
+
+{ "url": "https://jihulab.com/xo2/fty/-/raw/main/xo.json", "name": "线路29 (PizazzGY-git)" },
+
+{ "url": "clan://localhost/tvbox/88-laoZtest/tvbox.json", "name": "线路30 test1 (laoZ_test_clan)" }
 
 ],
 
