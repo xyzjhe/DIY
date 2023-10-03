@@ -20,6 +20,8 @@
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox.json", "name": "🦊|香雅晴git|🦊" },
 
+{ "url": "https://agit.ai/cacifer/4K/raw/branch/master/diy.json", "name": "🐯|cacifer-agit|🐯" },
+
 { "url": "https://agit.ai/yzli/yydf/raw/branch/main/yydf/yydf.json", "name": "🦞|yydf-agit|🦞" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/tvbox_config.json", "name": "🐤|zhixc_git|🐤" },
@@ -86,9 +88,9 @@
 
 { "url": "https://agit.ai/zhoujck/config/raw/branch/master/box", "name": "线路27 (zhoujck-box)" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json", "name": "线路28 (loopool-fty-git)" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json", "name": "线路28 (PizazzGY-git)" },
 
-{ "url": "https://jihulab.com/xo2/fty/-/raw/main/xo.json", "name": "线路29 (PizazzGY-git)" },
+{ "url": "https://jihulab.com/xo2/fty/-/raw/main/xo.json", "name": "线路29 (loopool-fty-jihu)" },
 
 { "url": "clan://localhost/tvbox/88-laoZtest/tvbox.json", "name": "线路30 test1 (laoZ_test_clan)" }
 
