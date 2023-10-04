@@ -12,6 +12,10 @@
 
 { "url": "https://agit.ai/laozou/allinone/raw/branch/main/XYQTVBox.json", "name": "线路c 🦊|香雅晴agit|🦊" },  
 
+{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/mao.json", "name": "线路d 🐟|MAO-agit|🐟" },  
+
+{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/fan.json", "name": "线路e 🐉|饭太硬agit-0928|🐉" },  
+
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/3in1/main/api0828.json", "name": " 🐶|超级线路git(3in1-git)| 🐶" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/fan1001.json", "name": "🐻|饭太硬git|🐻" },
