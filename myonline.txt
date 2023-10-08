@@ -40,6 +40,8 @@
 
 { "url": "clan://localhost/tvbox/00-bili4K/api_xdt_xyq.json", "name": "🍉|线路F (clan-小灯塔)|🍉" },
 
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/PG_all.json", "name": " 线路0 🐶|PG_all| 🐶" },
+
 { "url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/0821.json", "name": "线路1 (GAO-0821-full)" },
 
 { "url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/0825.json", "name": "线路2 (GAO-0825-PG)" },
