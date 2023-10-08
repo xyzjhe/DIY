@@ -4,7 +4,7 @@
 
 [
 
-{ "url": "https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox1008.json", "name": "线路a 🍎|香雅晴agit-1008|🍎" },
+{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/XYQTVBox1008.json", "name": "线路a 🍎|香雅晴agit-1008|🍎" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox1008.json", "name": "线路b 🦊|香雅晴git-1008|🦊" },
 
