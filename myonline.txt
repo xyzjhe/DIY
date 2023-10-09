@@ -46,6 +46,13 @@
 
 
 
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/pg.json", "name": " xinyi线路 🐶|PG-git| 🐶" },
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xy.json", "name": " xinyi线路 🐶|xy-git| 🐶" },
+
+
+
+
 { "url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/0821.json", "name": "线路1 (GAO-0821-full)" },
 
 { "url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/0825.json", "name": "线路2 (GAO-0825-PG)" },
