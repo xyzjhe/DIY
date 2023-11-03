@@ -4,6 +4,10 @@
 
 [
 
+{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/LaoZiSDS.json", "name": "线路0🐯|爱腾优阿里大全agit|🐯" },
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/LaoZiSDS.json", "name": "线路0b🦄|爱腾优阿里大全git|🦄" },
+
 { "url": "https://agit.ai/laozou/allinone/raw/branch/main/ali_api.json", "name": "线路1 🍏|阿里大全agit-1115| 🍏" },
 
 { "url": "https://agit.ai/laozou/allinone/raw/branch/main/XYQTVBox1030.json", "name": "线路2 🍎|香雅晴agit-1030|🍎" },
