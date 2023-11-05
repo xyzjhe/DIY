@@ -17,6 +17,14 @@
 { "url": "https://agit.ai/laozou/allinone/raw/branch/main/fan1001.json", "name": "线路4 🍊|饭太硬agit|🍊" },
 
 { "url": "https://agit.ai/laozou/allinone/raw/branch/main/fongmi.json", "name": "线路5 🥝|蜜蜂agit|🥝" }, 
+
+
+
+{ "url": "https://agit.ai/lanhaidixingren/Tvbox/raw/branch/master/py.json", "name": "线路A 蓝海pyagit" }, 
+
+{ "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json", "name": "线路B HCCX" }, 
+
+{ "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ysj.json", "name": "线路B HCCX-ysj" }, 
  
 
 
