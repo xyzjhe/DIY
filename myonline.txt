@@ -24,7 +24,13 @@
 
 { "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json", "name": "线路B HCCX" }, 
 
-{ "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ysj.json", "name": "线路B HCCX-ysj" }, 
+{ "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ysj.json", "name": "线路C HCCX-ysj" }, 
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/FM.json", "name": "线路D 4872FM-git" },
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/PG.json", "name": "线路E 4872PG-git" },
+
+{ "url": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json", "name": "线路F PizazzGY-git" },
  
 
 
