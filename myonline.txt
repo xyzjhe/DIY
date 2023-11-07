@@ -16,17 +16,32 @@
 
 { "url": "https://agit.ai/laozou/allinone/raw/branch/main/fongmi.json", "name": "线路5 🥝|蜜蜂-agit|🥝" }, 
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/LaoZiSDS.json", "name": "线路6🦄|七龙珠+阿里-git|🦄" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/ali_api.json", "name": "线路7 🐶|阿里大全PizazzGY-git|🐶" },
+{ "url": "https://notabug.org/laozou/allinone/raw/main/LaoZiSDS.json", "name": "线路6🦄|七龙珠+阿里-notabug|🦄" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox1030.json", "name": "线路8 🐱|香雅晴-git|🐱" },
+{ "url": "https://notabug.org/laozou/allinone/raw/main/ali_api.json", "name": "线路7 🐶|阿里大全PizazzGY-notabug|🐶" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox.json", "name": "线路9 🦊|香雅晴plus-git|🦊" },
+{ "url": "https://notabug.org/laozou/allinone/raw/main/XYQTVBox1030.json", "name": "线路8 🐱|香雅晴-notabug|🐱" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/fan1001.json", "name": "线路10 🐻|饭太硬-git|🐻" },
+{ "url": "https://notabug.org/laozou/allinone/raw/main/XYQTVBox.json", "name": "线路9 🦊|香雅晴plus-notabug|🦊" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/fongmi.json", "name": "线路11 🐝|蜜蜂-git|🐝" },
+{ "url": "https://notabug.org/laozou/allinone/raw/main/fan1001.json", "name": "线路10 🐻|饭太硬-notabug|🐻" },
+
+{ "url": "https://notabug.org/laozou/allinone/raw/main/fongmi.json", "name": "线路11 🐝|蜜蜂-notabug|🐝" },
+
+
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/LaoZiSDS.json", "name": "线路6b🦄|七龙珠+阿里-git|🦄" },
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/ali_api.json", "name": "线路7b 🐶|阿里大全PizazzGY-git|🐶" },
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox1030.json", "name": "线路8b 🐱|香雅晴-git|🐱" },
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox.json", "name": "线路9b 🦊|香雅晴plus-git|🦊" },
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/fan1001.json", "name": "线路10b 🐻|饭太硬-git|🐻" },
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/fongmi.json", "name": "线路11b 🐝|蜜蜂-git|🐝" },
 
 { "url": "clan://localhost/tvbox/100-allinone-main/XYQTVBox1030.json", "name": "⚽|线路12 (clan-香雅晴)|⚽" },
 
