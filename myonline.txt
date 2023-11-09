@@ -4,7 +4,7 @@
 
 [
 
-{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/ali_api.json", "name": "线路1 🍏|阿里大全PizazzGY-agit| 🍏" },
+{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/Ali_xyq_FM.json", "name": "线路1 🍏|阿里大全xyq&FM-agit| 🍏" },
 
 { "url": "https://agit.ai/laozou/allinone/raw/branch/main/XYQTVBox1030.json", "name": "线路2 🍎|香雅晴-agit|🍎" },
 
@@ -15,7 +15,7 @@
 { "url": "https://agit.ai/laozou/allinone/raw/branch/main/fongmi.json", "name": "线路5 🥝|蜜蜂-agit|🥝" }, 
 
 
-{ "url": "https://notabug.org/laozou/allinone/raw/main/ali_api.json", "name": "线路6 🐶|阿里大全PizazzGY-notabug|🐶" },
+{ "url": "https://notabug.org/laozou/allinone/raw/main/Ali_xyq_FM.json", "name": "线路6 🐶|阿里大全xyq&FM-notabug|🐶" },
 
 { "url": "https://notabug.org/laozou/allinone/raw/main/XYQTVBox1030.json", "name": "线路7 🐱|香雅晴-notabug|🐱" },
 
@@ -26,7 +26,7 @@
 { "url": "https://notabug.org/laozou/allinone/raw/main/fongmi.json", "name": "线路10 🐝|蜜蜂-notabug|🐝" },
 
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/ali_api.json", "name": "线路11 🐶|阿里大全PizazzGY-git|🐶" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/Ali_xyq_FM.json", "name": "线路11 🐶|阿里大全xyq&FM-git|🐶" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox1030.json", "name": "线路12 🐱|香雅晴-git|🐱" },
 
