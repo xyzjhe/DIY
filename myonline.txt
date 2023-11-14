@@ -22,6 +22,15 @@
 { "url": "https://codeberg.org/laozou/allinone/raw/main/fongmi.json", "name": "线路8 🐝|蜜蜂-codeberg|🐝" },
 
 
+{ "url": "https://notabug.org/laozou/allinone/raw/main/Ali_xyq_FM.json", "name": "线路5b 🐶|阿里大全xyq&FM-notabug|🐶" },
+
+{ "url": "https://notabug.org/laozou/allinone/raw/main/XYQTVBox1030.json", "name": "线路6b 🐱|香雅晴-notabug|🐱" },
+
+{ "url": "https://notabug.org/laozou/allinone/raw/main/fan1001.json", "name": "线路7b 🐻|饭太硬-notabug|🐻" },
+
+{ "url": "https://notabug.org/laozou/allinone/raw/main/fongmi.json", "name": "线路8b 🐝|蜜蜂-notabug|🐝" },
+
+
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/Ali_xyq_FM.json", "name": "线路9 🐶|阿里大全xyq&FM-git|🐶" },
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox1030.json", "name": "线路10 🐱|香雅晴-git|🐱" },
