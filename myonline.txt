@@ -31,14 +31,14 @@
 { "url": "https://notabug.org/laozou/allinone/raw/main/fongmi.json", "name": "线路8b 🐝|蜜蜂-notabug|🐝" },
 
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/Ali_xyq_FM.json", "name": "线路9 🐶|阿里大全xyq&FM-git|🐶" },
+{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/Ali_xyq_FM.json", "name": "线路9 🐶|阿里大全xyq&FM-git|🐶" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox1030.json", "name": "线路10 🐱|香雅晴-git|🐱" },
+{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/XYQTVBox1030.json", "name": "线路10 🐱|香雅晴-git|🐱" },
 
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/fan1001.json", "name": "线路11 🐻|饭太硬-git|🐻" },
+{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/fan1001.json", "name": "线路11 🐻|饭太硬-git|🐻" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/fongmi.json", "name": "线路12 🐝|蜜蜂-git|🐝" },
+{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone/main/fongmi.json", "name": "线路12 🐝|蜜蜂-git|🐝" },
 
 
 
