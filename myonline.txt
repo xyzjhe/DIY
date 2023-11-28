@@ -4,6 +4,10 @@
 
 [
 
+{ "url": "https://agit.ai/laozou/allinone/raw/branch/main/PGapi1126.json", "name": "线路T0 PGali-agit" },
+
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/allinone/main/PGapi1126.json", "name": "线路T1 PGali-git" },
+
 { "url": "https://download.kstore.space/download/4974/GLL/ALI_ol.json", "name": "线路0 🍑|xyq&FM-kstore|🍑" },
 
 { "url": "https://agit.ai/laozou/allinone/raw/branch/main/Ali_xyq_FM.json", "name": "线路1 🍏|阿里大全xyq&FM-agit| 🍏" },
@@ -72,4 +76,3 @@ vip": [
     ]
 
 }
-
