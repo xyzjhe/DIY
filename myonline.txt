@@ -5,15 +5,15 @@
 [
 
 
-{ "url": "https://bitbucket.org/my-test-2025/duo1230//raw/main/feimao.json", "name": "线路1 🍎|feimao-bitbucket|🍎" },
+{ "url": "https://bitbucket.org/my-test-2025/duo1230/raw/main/feimao.json", "name": "线路1 🍎|feimao-bitbucket|🍎" },
 
-{ "url": "https://bitbucket.org/my-test-2025/duo1230//raw/main/XYQTVBox.json", "name": "线路2 🐱|香雅晴-bitbucket|🐱" },
+{ "url": "https://bitbucket.org/my-test-2025/duo1230/raw/main/XYQTVBox.json", "name": "线路2 🐱|香雅晴-bitbucket|🐱" },
 
-{ "url": "https://bitbucket.org/my-test-2025/duo1230//raw/main/fan.json", "name": "线路3 🐻|饭太硬-bitbucket|🐻" },
+{ "url": "https://bitbucket.org/my-test-2025/duo1230/raw/main/fan.json", "name": "线路3 🐻|饭太硬-bitbucket|🐻" },
 
-{ "url": "https://bitbucket.org/my-test-2025/duo1230//raw/main/fongmi.json", "name": "线路4 🐝|蜜蜂-bitbucket|🐝" },
+{ "url": "https://bitbucket.org/my-test-2025/duo1230/raw/main/fongmi.json", "name": "线路4 🐝|蜜蜂-bitbucket|🐝" },
 
-{ "url": "https://bitbucket.org/my-test-2025/duo1230//raw/main/PG.json", "name": "线路5 🍏|PG-bitbucket| 🍏" }, 
+{ "url": "https://bitbucket.org/my-test-2025/duo1230/raw/main/PG.json", "name": "线路5 🍏|PG-bitbucket| 🍏" }, 
 
 
 
