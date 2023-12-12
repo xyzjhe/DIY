@@ -5,15 +5,17 @@
 [
 
 
-{ "url": "https://codeberg.org/laozou/5in1inone/raw/main/feimao.json", "name": "线路1 🍎|feimao-codeberg|🍎" },
+{ "url": "https://bitbucket.org/my-test-2025/duo1230//raw/main/feimao.json", "name": "线路1 🍎|feimao-bitbucket|🍎" },
 
-{ "url": "https://codeberg.org/laozou/5in1inone/raw/main/XYQTVBox.json", "name": "线路2 🐱|香雅晴-codeberg|🐱" },
+{ "url": "https://bitbucket.org/my-test-2025/duo1230//raw/main/XYQTVBox.json", "name": "线路2 🐱|香雅晴-bitbucket|🐱" },
 
-{ "url": "https://codeberg.org/laozou/5in1inone/raw/main/fan.json", "name": "线路3 🐻|饭太硬-codeberg|🐻" },
+{ "url": "https://bitbucket.org/my-test-2025/duo1230//raw/main/fan.json", "name": "线路3 🐻|饭太硬-bitbucket|🐻" },
 
-{ "url": "https://codeberg.org/laozou/5in1inone/raw/main/fongmi.json", "name": "线路4 🐝|蜜蜂-codeberg|🐝" },
+{ "url": "https://bitbucket.org/my-test-2025/duo1230//raw/main/fongmi.json", "name": "线路4 🐝|蜜蜂-bitbucket|🐝" },
 
-{ "url": "https://codeberg.org/laozou/5in1inone/raw/main/PG.json", "name": "线路5 🍏|PG-codeberg| 🍏" }, 
+{ "url": "https://bitbucket.org/my-test-2025/duo1230//raw/main/PG.json", "name": "线路5 🍏|PG-bitbucket| 🍏" }, 
+
+
 
 
 { "url": "https://download.kstore.space/download/4974/GLL/ALI_ol.json", "name": "线路6 xyq&FM-kstore" },
@@ -44,6 +46,11 @@
 
 { "url": "clan://localhost/tvbox/88-laoZtest/tvbox.json", "name": "🚛|线路18 test1 (laoZ_test_clan)|🚛" }
 
+
+
+
+
+
 ],
 
 vip": [
@@ -54,4 +61,3 @@ vip": [
     ]
 
 }
-
