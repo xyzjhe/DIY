@@ -1,0 +1,44 @@
+def repoConfig = {
+    all { ArtifactRepository repo ->
+        if (repo instanceof MavenArtifactRepository) {
+            def url = repo.url.toString()
+            if (url.contains('repo1.maven.org/maven2')
+                || url.contains('jcenter.bintray.com')
+                || url.contains('maven.google.com')
+                || url.contains('plugins.gradle.org/m2')
+                || url.contains('repo.spring.io/libs-milestone')
+                || url.contains('repo.spring.io/plugins-release')
+                || url.contains('repo.grails.org/grails/core')
+                || url.contains('repository.apache.org/snapshots')
+            ) {
+                println "gradle init: [buildscript.repositories] (${repo.name}: ${repo.url}) removed"
+                remove repo
+            }
+        }
+    }
+//    当前所代理的外部仓库：
+//    https://repo1.maven.org/maven2/
+//    https://dl.google.com/dl/android/maven2
+//    https://jcenter.bintray.com/
+//    https://oss.sonatype.org/content/repositories/snapshots/
+//    https://repo.spring.io/plugins-release/
+//    https://repo.clojars.org/
+//    https://jitpack.io/
+//    https://developer.huawei.com/repo/
+//    http://maven.qingting.fm/
+//    http://spantus.sourceforge.net/maven/global/
+//    https://dl.bintray.com/thelasterstar/maven/
+//    https://dl.bintray.com/sergei-ivanov/maven/
+//    https://download.oracle.com/maven/
+//    https://maven.repository.redhat.com/ga
+//    https://repo.maven.apache.org/maven2/
+    maven { url 'https://mirrors.cloud.tencent.com/nexus/repository/maven-public/' }
+}
+ 
+allprojects {
+    buildscript {
+        repositories repoConfig
+    }
+ 
+    repositories repoConfig
+}
