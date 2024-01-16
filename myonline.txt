@@ -5,69 +5,69 @@
 [
 
 
+{ "url": "https://bitbucket.org/mytvbox2025/allinone2024/raw/main/feimao.json", "name": "线路1 🍎|肥猫在线-bitbucket|🍎" },
 
+{ "url": "https://bitbucket.org/mytvbox2025/allinone2024/raw/main/XYQTVBox.json", "name": "线路2 🐱|香雅晴-bitbucket|🐱" },
 
-{ "url": "https://bitbucket.org/my-test-2025/duo1230/raw/main/feimao.json", "name": "线路1 🍎|feimao-bitbucket|🍎" },
+{ "url": "https://bitbucket.org/mytvbox2025/allinone2024/raw/main/fan.json", "name": "线路3 🐻|饭太硬-bitbucket|🐻" },
 
-{ "url": "https://bitbucket.org/my-test-2025/duo1230/raw/main/XYQTVBox.json", "name": "线路2 🐱|香雅晴-bitbucket|🐱" },
+{ "url": "https://bitbucket.org/mytvbox2025/allinone2024/raw/main/fongmi.json", "name": "线路4 🐝|蜜蜂-bitbucket|🐝" },
 
-{ "url": "https://bitbucket.org/my-test-2025/duo1230/raw/main/fan.json", "name": "线路3 🐻|饭太硬-bitbucket|🐻" },
-
-{ "url": "https://bitbucket.org/my-test-2025/duo1230/raw/main/fongmi.json", "name": "线路4 🐝|蜜蜂-bitbucket|🐝" },
-
-{ "url": "https://bitbucket.org/my-test-2025/duo1230/raw/main/PG.json", "name": "线路5 🍏|PG-bitbucket| 🍏" }, 
-
-{ "url": "https://bitbucket.org/my-test-2025/duo1230/raw/main/ok.json", "name": "线路6 🍑|OK-bitbucket| 🍑" }, 
+{ "url": "https://bitbucket.org/mytvbox2025/allinone2024/raw/main/pg/jsm.json", "name": "线路5 🍏|PG-bitbuckett-影视专用| 🍏" }, 
 
 
 
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/duo1212/main/feimao.json", "name": "线路7 🍎|feimao-git|🍎" },
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/allinone2024/main/feimao.json", "name": "线路6 🍎|肥猫在线-git|🍎" },
 
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/duo1212/main/XYQTVBox.json", "name": "线路8 🐱|香雅晴-git|🐱" },
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/allinone2024/main/XYQTVBox.json", "name": "线路7 🐱|香雅晴-git|🐱" },
 
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/duo1212/main/fan.json", "name": "线路9 🐻|饭太硬-git|🐻" },
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/allinone2024/main/fan.json", "name": "线路8 🐻|饭太硬-git|🐻" },
 
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/duo1212/main/fongmi.json", "name": "线路10 🐝|蜜蜂-git|🐝" },
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/allinone2024/main/fongmi.json", "name": "线路9 🐝|蜜蜂-git|🐝" },
 
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/duo1212/main/PG.json", "name": "线路11 🍏|PG-git|🍏" },
-
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/duo1212/main/ok.json", "name": "线路12 🍑|OK-git|🍑" },
-
-
-
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/duo1212/main/PG.json", "name": "线路13 xyq&FM-git" },
-
-{ "url": "https://download.kstore.space/download/4974/GLL/ALI_ol.json", "name": "线路14 xyq&FM-kstore" },
-
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json", "name": "线路15 XYQplus-git" },
-
-
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json", "name": "线路16 fongmi-git" },
-
-{ "url": "http://饭太硬.top/tv", "name": "线路17 饭太硬" }, 
-
-{ "url": "https://xn--z7x900a.live/", "name": "线路18 肥猫在线" }, 
-
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/okcaptain/okjar/rm/ok.json", "name": "线路19 OKjack-git-影视专用" },
-
-{ "url": "https://agit.ai/lirg/ocean/raw/branch/master/api.json", "name": "线路20 ocean-小米" }, 
-
-
-{ "url": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/py/config.json", "name": "线路21 🐳|jadehh-PY-git| 🐳" },
-
-
-{ "url": "https://agit.ai/lanhaidixingren/Tvbox/raw/branch/master/py.json", "name": "线路22 蓝海pytest-agit" }, 
-
-{ "url": "clan://localhost/tvbox/00-bili4K/api _test_fty.json", "name": "🚗|线路23 (clan-Bilibili大全)|🚗" },
-
-{ "url": "clan://localhost/tvbox/00-bili4K/api_xdt_xyq.json", "name": "🚌|线路24 (clan-小灯塔)|🚌" },
-
-{ "url": "clan://localhost/tvbox/88-laoZtest/tvbox.json", "name": "🚛|线路25 test1 (laoZ_test_clan)|🚛" }
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/allinone2024/main/pg/jsm.json", "name": "线路10 🍏|PG-gitt-影视专用|🍏" },
 
 
 
 
 
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/allinone2024/main/Ali_xyq_FM.json", "name": "线路11 xyq&FM-git" },
+
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json", "name": "线路12 XYQ&OK-git" },
+
+
+{ "url": "https://agit.ai/lanhaidixingren/Tvbox/raw/branch/master/py.json", "name": "线路13 py大全" },
+
+{ "url": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/tv_config.json", "name": "线路14 jadehh_js" },
+
+
+{ "url": "http://饭太硬.top/tv", "name": "线路15 饭太硬" }, 
+
+{ "url": "https://xn--z7x900a.live/", "name": "线路16 肥猫在线" }, 
+
+{ "url": "http://xhww.fun/小米/DEMO.json", "name": "线路17 小米小爆脾气" }, 
+
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/Tangsan99999/-/master/tangs.json", "name": "线路18 fongmi-Tangsan" },
+
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", "name": "线路19 xyqonlinerule" },
+
+{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "线路20 南风XC" },
+
+{ "url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/js.json", "name": "线路21 GAO-js" },
+
+{ "url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/0825.json", "name": "线路22 GAO-0825" },
+
+
+{ "url": "https://bitbucket.org/mytvbox2025/allinone2024/raw/main/ok/ok.json", "name": "线路23 🍑|OK-bitbucket-影视专用| 🍑" }, 
+
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/allinone2024/main/ok/ok.json", "name": "线路24 🍑|OK-git-影视专用|🍑" },
+
+
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/13998394872/TVBox/main/PG.json", "name": "线路25 4782pg-git" },
+
+{ "url": "http://127.0.0.1:9978/file/tvbox/00-bili4K/api _test_fty.json", "name": "🚗|线路26 (clan-Bilibili大全)|🚗" },
+
+{ "url": "http://127.0.0.1:9978/file/tvbox/00-bili4K/api_xdt_xyq.json", "name": "🚌|线路27 (clan-小灯塔)|🚌" }
 
 ],
 
