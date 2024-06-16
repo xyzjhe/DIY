@@ -42,13 +42,15 @@
 
 {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "新线路3 南风git" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kvymin/TVRule/main/config.json", "name": "新线路4 kvymin" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone2024/main/PG/jsm.json", "name": "新线路4 PG" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwd461235458/Tvbox-Sin/main/jsm.json", "name": "新线路5 lwd461235458PG" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kvymin/TVRule/main/config.json", "name": "新线路5 kvymin" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwd461235458/TVBox-Xm/main/jsm18.json", "name": "新线路6 lwd461235458PG18" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwd461235458/Tvbox-Sin/main/jsm.json", "name": "新线路6 lwd461235458PG" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json", "name": "新线路7 zhixc" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwd461235458/TVBox-Xm/main/jsm18.json", "name": "新线路7 lwd461235458PG18" },
+
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json", "name": "新线路8 zhixc" },
 
 
     
