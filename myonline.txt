@@ -58,17 +58,18 @@
 
 {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/shg1.json", "name": "新线路10 aliluya1977_1" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa.json", "name": "新线路11 🔞aliluya1977_18a" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json", "name": "新线路11 CandyMuj" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa1.json", "name": "新线路12 🔞aliluya1977_18b" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj1.json", "name": "新线路12 CandyMuj1" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json", "name": "新线路13 CandyMuj" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json", "name": "新线路13 🔞CandyMuj18" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj1.json", "name": "新线路14 CandyMuj1" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwd461235458/TVBox-Xm/main/jsm18.json", "name": "新线路14 🔞lwd461235458PG18" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json", "name": "新线路15 🔞CandyMuj18" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa.json", "name": "新线路15 🔞aliluya1977_18a" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwd461235458/TVBox-Xm/main/jsm18.json", "name": "新线路16 🔞lwd461235458PG18" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa11.json", "name": "新线路16 🔞aliluya1977_18b" },
+
 
 
 { "url": "clan://localhost/tvbox/00-bili4K/api _test_fty.json", "name": "🚗|本地线路1 (clan-Bilibili大全)|🚗" },
