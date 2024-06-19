@@ -23,46 +23,52 @@
 { "url": "https://bitbucket.org/mytvbox2025/allinone2024/raw/main/fangniu/fangniu.json", "name": "备用线路4 🍎|放牛娃-bitbcket|🍎" },
 
 
-{ "url": "https://download.kstore.space/download/4974/GLL/ALI_ol.json", "name": "备用线路0  🐉|香雅晴-精华版|🐉" },
+//{ "url": "https://download.kstore.space/download/4974/GLL/ALI_ol.json", "name": "备用线路0  🐉|香雅晴-精华版|🐉" },
 
 { "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", "name": "官方线路1 🐱|香雅晴" },
 
-{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/", "name": "官方线路2 🐮|放牛娃" },
+{ "url": "http://tvbox.王二小放牛娃.xyz", "name": "官方线路2 🐮|放牛娃" },
 
 { "url": "http://www.饭太硬.com/tv/", "name": "官方线路3 🐻|饭太硬com" }, 
 
 { "url": "http://肥猫.com", "name": "官方线路4 🍎|肥猫在线" }, 
 
-{ "url": "https://6741.kstore.space/tudou.json", "name": "官方线路5 🥔|土豆在线" },
+//{ "url": "https://6741.kstore.space/tudou.json", "name": "官方线路5 🥔|土豆在线" },
 
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/hipytestbox/main/index.json", "name": "新线路0 hipy_T4" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/hipytestbox/main/index.json", "name": "新线路1 hipy_index" },
 
-{"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyzjhe/allinone2024/main/drpy_t3.json", "name": "新线路1 my_drpy_T3" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/hipytestbox/main/t3.json", "name": "新线路2 hipy_T3" },
 
-{"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json", "name": "新线路2 PizazzGY" },
+//{"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyzjhe/allinone2024/main/drpy_t3.json", "name": "新线路1 my_drpy_T3" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "新线路3 南风git" },
+{"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json", "name": "新线路3 PizazzGY" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone2024/main/PG/jsm.json", "name": "新线路4 PG" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "新线路4 南风git" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json", "name": "新线路5 zhixc" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone2024/main/PG/jsm.json", "name": "新线路5 PG" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kvymin/TVRule/main/config.json", "name": "新线路6 kvymin_jar" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json", "name": "新线路6 zhixc" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kvymin/TVRule/main/JavaScript.json", "name": "新线路7 kvymin_js" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kvymin/TVRule/main/config.json", "name": "新线路7 kvymin_jar" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/shg.jsonn", "name": "新线路8 aliluya1977" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kvymin/TVRule/main/JavaScript.json", "name": "新线路8 kvymin_js" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/shg1.jsonn", "name": "新线路9 aliluya1977_1" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/shg.json", "name": "新线路9 aliluya1977" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json", "name": "新线路10 CandyMuj" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/shg1.json", "name": "新线路10 aliluya1977_1" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj1.json", "name": "新线路11 CandyMuj1" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa.json", "name": "新线路11 🔞aliluya1977_18a" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json", "name": "新线路12 CandyMuj18" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa1.json", "name": "新线路12 🔞aliluya1977_18b" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwd461235458/TVBox-Xm/main/jsm18.json", "name": "新线路13 lwd461235458PG18" },
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json", "name": "新线路13 CandyMuj" },
+
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj1.json", "name": "新线路14 CandyMuj1" },
+
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json", "name": "新线路15 🔞CandyMuj18" },
+
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwd461235458/TVBox-Xm/main/jsm18.json", "name": "新线路16 🔞lwd461235458PG18" },
 
 
 { "url": "clan://localhost/tvbox/00-bili4K/api _test_fty.json", "name": "🚗|本地线路1 (clan-Bilibili大全)|🚗" },
