@@ -50,7 +50,7 @@
 
 {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/shg.json", "name": "新线路7 aliluya1977_shg" },
 
-{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/shg1.json", "name": "新线路8 aliluya1977_shg1" },
+{"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/main/X.json", "name": "新线路8 alantang1977_X" },
 
 {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json", "name": "新线路9 CandyMuj" },
 
