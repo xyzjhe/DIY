@@ -5,13 +5,13 @@
 [
 
 
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/allinone2024/main/XYQTVBox.json", "name": "主力线路1 🐱|香雅晴-git|🐱" },
+{ "url": "https://ghproxy.cn/https://raw.githubusercontent.com/xyzjhe/allinone2024/main/XYQTVBox.json", "name": "主力线路1 🐱|香雅晴-git|🐱" },
 
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/allinone2024/main/fongmi.json", "name": "主力线路2 🐝|蜜蜂-git|🐝" },
+{ "url": "https://ghproxy.cn/https://raw.githubusercontent.com/xyzjhe/allinone2024/main/fongmi.json", "name": "主力线路2 🐝|蜜蜂-git|🐝" },
 
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/allinone2024/main/fan.json", "name": "主力线路3 🐻|饭太硬-git|🐻" },
+{ "url": "https://ghproxy.cn/https://raw.githubusercontent.com/xyzjhe/allinone2024/main/fan.json", "name": "主力线路3 🐻|饭太硬-git|🐻" },
 
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xyzjhe/allinone2024/main/fangniu/fangniu.json", "name": "主力线路4 🍎|放牛娃-git|🍎" },
+{ "url": "https://ghproxy.cn/https://raw.githubusercontent.com/xyzjhe/allinone2024/main/fangniu/fangniu.json", "name": "主力线路4 🍎|放牛娃-git|🍎" },
 
 
 {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyzjhe/allinone2024/main/index.json", "name": "主力线路5 🥝|hipy_index| 🥝" },
@@ -66,15 +66,6 @@
 {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json", "name": "新线路9 CandyMuj" },
 
 {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj1.json", "name": "新线路10 CandyMuj1" },
-
-//{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json", "name": "新线路11 🔞CandyMuj18" },
-
-//{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwd461235458/TVBox-Xm/main/jsm18.json", "name": "新线路12 🔞lwd461235458PG18" },
-
-//{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa.json", "name": "新线路13 🔞aliluya1977_18a" },
-
-//{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa11.json", "name": "新线路14 🔞aliluya1977_18b" },
-
 
 
 { "url": "clan://localhost/tvbox/00-bili4K/api _test_fty.json", "name": "🚗|本地线路1 (clan-Bilibili大全)|🚗" },
